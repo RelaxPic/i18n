@@ -4,7 +4,6 @@ android {
     namespace 'com.relaxpic.android.i18n'
     compileSdk 34
     defaultConfig {
-        applicationId "com.relaxpic.android.i18n"
         minSdk 25
         targetSdk 34
     }
