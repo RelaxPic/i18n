@@ -17,7 +17,6 @@
     <string name="input_shortcut_name">请输入快捷方式名称</string>
     <string name="input_unlock_code">请输入解锁代码</string>
 
-
     <string-array name="fileFilterArray">
         <item>视频</item>
         <item>GIF照片</item>
@@ -27,9 +26,6 @@
     <string-array name="deleteSelect">
         <item>回收站</item>
         <item>永久删除</item>
-    </string-array>
-    <string-array name="rememberMe">
-        <item>不再提醒</item>
     </string-array>
     <string-array name="albumOperaArray">
         <item>无缝浏览</item>
@@ -114,7 +110,6 @@
     <string name="thrid_account_config">第三方账号配置</string>
     <string name="add_thrid_account">添加账号</string>
     <string name="input_webdav_server_addr">WebDAV 服务器地址</string>
-    <string name="input_port">端口(选填)</string>
     <string name="username">用户名</string>
     <string name="password">密码</string>
     <string name="login">登录</string>
@@ -376,4 +371,9 @@
     <string name="agree_and_continue">同意并继续</string>
     <string name="disagree">不同意</string>
     <string name="media_not_supported">媒体不受支持</string>
+    <string name="choose">选择</string>
+    <string name="system_default_selector">系统默认选择器</string>
+    <string name="set_default_app">设置默认应用</string>
+    <string name="clear_default_app">清理默认应用</string>
+    <string name="default_app_cleared">默认应用已清理</string>
 </resources>

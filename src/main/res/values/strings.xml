@@ -190,7 +190,6 @@
     <string name="thrid_account_config">Third-party account configuration</string>
     <string name="add_thrid_account">Add account</string>
     <string name="input_webdav_server_addr">WebDAV server address</string>
-    <string name="input_port">Port(optional)</string>
     <string name="username">Username</string>
     <string name="password">Password</string>
     <string name="login">Login</string>
@@ -410,4 +409,9 @@
     <string name="agree_and_continue">Agree and continue</string>
     <string name="disagree">Disagree</string>
     <string name="media_not_supported">Media not supported</string>
+    <string name="choose">Choose</string>
+    <string name="system_default_selector">System default selector</string>
+    <string name="set_default_app">Set default APP</string>
+    <string name="clear_default_app">Clear default App</string>
+    <string name="default_app_cleared">Default APP cleared</string>
 </resources>
