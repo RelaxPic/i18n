@@ -64,10 +64,26 @@
     <string name="update_success">更新成功</string>
     <string name="delete_picture_browsing_history">删除图片浏览历史</string>
     <string name="year">年</string>
+    <string name="this_year">今年</string>
     <string name="month">月</string>
+    <string name="this_month">本月</string>
     <string name="day">日</string>
     <string name="hour">小时</string>
     <string name="minute">分钟</string>
+    <string name="today">今天</string>
+    <string name="monday">周一</string>
+    <string name="thesday">周二</string>
+    <string name="wednesday">周三</string>
+    <string name="thursday">周四</string>
+    <string name="friday">周五</string>
+    <string name="saturday">周六</string>
+    <string name="sunday">周日</string>
+    <string name="yestoday">昨天</string>
+    <string name="yyyy_year">yyyy年</string>
+    <string name="yyyy_month">yyyy月M月</string>
+    <string name="yyyy_year_day">yyyy年M月d日</string>
+    <string name="yyyy_year_day_hour">yyyy年M月d日H时</string>
+    <string name="yyyy_year_day_hour_minture">yyyy年M月d日H时m分</string>
     <string name="photoGroup">照片分组</string>
     <string name="recover_file">恢复文件</string>
     <string name="renewal_file">延期删除</string>
@@ -75,7 +91,9 @@
     <string name="latest_images">最近查看的图片</string>
     <string name="selected">已选择</string>
     <string name="page_mode">浏览翻页模式</string>
+    <string name="media_attr">媒体属性</string>
     <string name="look_settings">浏览设置</string>
+
     <string name="custom">自定义</string>
     <string name="settings">设置</string>
     <string name="privacy_camera_settings">私密相机设置</string>

@@ -141,10 +141,26 @@
     <string name="delete_picture_browsing_history">Delete picture browsing history</string>
     <string name="not_found_application">No suitable application found</string>
     <string name="year">Year</string>
+    <string name="this_year">This year</string>
     <string name="month">Month</string>
+    <string name="this_month">This month</string>
     <string name="day">Day</string>
     <string name="hour">Hour</string>
     <string name="minute">Minture</string>
+    <string name="today">Today</string>
+    <string name="monday">Monday</string>
+    <string name="thesday">Thesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+    <string name="yestoday">Yestoday</string>
+    <string name="yyyy_year">yyyy</string>
+    <string name="yyyy_month">yyyy MMM</string>
+    <string name="yyyy_year_day">MMM d, yyyy,\u0020</string>
+    <string name="yyyy_year_day_hour">MMM d, yyyy HH</string>
+    <string name="yyyy_year_day_hour_minture">MMM d, yyyy HH:mm</string>
     <string name="photoGroup">Photo grouping</string>
     <string name="recover_file">recover files</string>
     <string name="renewal_file">Postponed deletion</string>
@@ -153,7 +169,7 @@
     <string name="record_latest_images">Record recently viewed images when turned on</string>
     <string name="selected">selected</string>
     <string name="page_mode">Flip mode</string>
-    <string name="media_attr">照片属性</string>
+    <string name="media_attr">Media Attr</string>
     <string name="look_settings">Browse settings</string>
     <string name="custom">Custom</string>
     <string name="settings">Settings</string>
@@ -414,4 +430,5 @@
     <string name="set_default_app">Set default APP</string>
     <string name="clear_default_app">Clear default App</string>
     <string name="default_app_cleared">Default APP cleared</string>
+
 </resources>
