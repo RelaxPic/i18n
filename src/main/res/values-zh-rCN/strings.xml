@@ -419,5 +419,8 @@
     <string name="original_path">原始路径</string>
     <string name="file_not_found">文件不存在，无法查看</string>
     <string name="browse_time">浏览时间</string>
+    <string name="add_column">增加一列</string>
+    <string name="reduce_column">较少一列</string>
+    <string name="select_column_count">选择列数</string>
 </resources>
 
