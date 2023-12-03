@@ -69,6 +69,8 @@
     <string name="this_month">本月</string>
     <string name="day">日</string>
     <string name="hour">小时</string>
+    <string name="hours">小时</string>
+    <string name="photo_expiry_time_day_hours">%1$d天%2$d小时</string>
     <string name="minute">分钟</string>
     <string name="today">今天</string>
     <string name="monday">周一</string>
@@ -92,12 +94,13 @@
     <string name="selected">已选择</string>
     <string name="page_mode">浏览翻页模式</string>
     <string name="media_attr">媒体属性</string>
+    <string name="media_info">媒体信息</string>
     <string name="look_settings">浏览设置</string>
 
     <string name="custom">自定义</string>
     <string name="settings">设置</string>
-    <string name="privacy_camera_settings">私密相机设置</string>
-    <string name="privacy_camera">私密相机</string>
+    <string name="privacy_camera_settings">相机设置</string>
+    <string name="privacy_camera">相机</string>
     <string-array name="page_mode_array">
         <item>上下翻页(推荐)</item>
         <item>左右翻页</item>
@@ -189,7 +192,7 @@
     <string name="logging_in">正在登录中...</string>
     <string name="login_failed">登录失败</string>
     <string name="send_file_manager_to_desktop">将系统文件管理器发送到桌面</string>
-    <string name="send_privacy_camera_to_desktop">将私密相机发送到桌面</string>
+    <string name="send_privacy_camera_to_desktop">将相机发送到桌面</string>
     <string name="start_http_file_server">HTTP文件服务</string>
     <string name="file_manager">文件管理器</string>
     <string name="existed">已存在</string>
@@ -283,7 +286,6 @@
     <string name="date">日期</string>
     <string name="size">大小</string>
     <string name="addTime">添加时间</string>
-    <string name="deleteTime">删除时间</string>
     <string name="takenTime">拍摄时间</string>
     <string name="updatetime">修改时间</string>
     <string name="desc">降序</string>
@@ -340,7 +342,7 @@
     <string name="enter_the_number_of_days_to_add_the_extension">输入要添加延期的天数</string>
     <string name="wallpaper_mode">将手机壁纸应用于应用背景</string>
     <string name="wallpapger_mode_desc">应用在夜间模式主题时，使用系统墙纸作为应用背景。</string>
-    <string name="search_hint">请输入照片名称或者相册关键字</string>
+    <string name="search_hint">请输入照片名称,相册关键字</string>
     <string name="record_latest_images">开启后，记录最近浏览的图片</string>
     <string name="auto_hide_desc">进入照片详情页面，将自动隐藏底部和顶部组件。</string>
     <string name="auto_hide">自动隐藏</string>
@@ -371,12 +373,12 @@
     <string name="filter_video_duration">过滤小于指定视频长度</string>
     <string name="filter_file_size_unit">过滤文件大小(单位/kb)</string>
     <string name="filter_file_size">过滤小于指定文件大小</string>
-    <string name="use_privacy_camera">主页使用私密相机</string>
+    <string name="use_privacy_camera">主页使用应用相机</string>
     <string name="use_system_camera">主页使用系统相机</string>
-    <string name="hide_privacy_camera_from_recently_task">最近的任务中隐藏私密相机</string>
-    <string name="hide_privacy_camera_from_recently_task_desc">从快捷方式打开私密相机，退出当前页面后将从多任务窗口隐藏</string>
+    <string name="hide_privacy_camera_from_recently_task">最近的任务中隐藏相机</string>
+    <string name="hide_privacy_camera_from_recently_task_desc">从快捷方式打开相机，退出当前页面后将从多任务窗口隐藏</string>
     <string name="volume_key_up_quick_close_camera">音量+键快速关闭从快捷方式打开的相机</string>
-    <string name="turn_off_privacy_camera_quickly">快速关闭私密相机</string>
+    <string name="turn_off_privacy_camera_quickly">快速关闭相机</string>
     <string name="not_supported_this_settings">当前设备不支持设置</string>
     <string name="camera">相机</string>
     <string name="use_privacy_album_tips">请勿随意卸载当前应用，隐私空间的内容将随应用卸载而删除。</string>
@@ -394,4 +396,28 @@
     <string name="set_default_app">设置默认应用</string>
     <string name="clear_default_app">清理默认应用</string>
     <string name="default_app_cleared">默认应用已清理</string>
+    <string name="camera_settings">拍摄参数</string>
+    <string name="back_up">备份</string>
+    <string name="dimensions">宽高</string>
+    <string name="duration">时长</string>
+    <string name="brand">品牌</string>
+    <string name="model">型号</string>
+    <string name="focal_length">焦距</string>
+    <string name="aperture">光圈</string>
+    <string name="exposure">曝光</string>
+    <string name="altitude">海拔</string>
+    <string name="white_balance">白平衡</string>
+    <string name="flash">闪光灯</string>
+    <string name="automatic">自动</string>
+    <string name="manual">手动</string>
+    <string name="disable_qr_code_file_sharing">关闭二维码文件分享</string>
+    <string name="enable_qr_code_file_sharing">打开二维码分享</string>
+    <string name="qr_code_expires_soon">二维码3分钟后过期，请尽快分享！</string>
+    <string name="wifi_not_connected">未连接WIFI，无法使用该功能</string>
+    <string name="capture_time">拍摄时间</string>
+    <string name="delete_time">删除时间</string>
+    <string name="original_path">原始路径</string>
+    <string name="file_not_found">文件不存在，无法查看</string>
+    <string name="browse_time">浏览时间</string>
 </resources>
+

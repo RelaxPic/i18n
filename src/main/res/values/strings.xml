@@ -88,7 +88,6 @@
     <string name="date">Date</string>
     <string name="size">Size</string>
     <string name="addTime">Added time</string>
-    <string name="deleteTime">Deletion time</string>
     <string name="takenTime">Taken on</string>
     <string name="updatetime">Time modified</string>
     <string name="desc">Desc</string>
@@ -145,7 +144,9 @@
     <string name="month">Month</string>
     <string name="this_month">This month</string>
     <string name="day">Day</string>
+    <string name="photo_expiry_time_day_hours">%1$d days,%2$d hours</string>
     <string name="hour">Hour</string>
+    <string name="hours">hours</string>
     <string name="minute">Minture</string>
     <string name="today">Today</string>
     <string name="monday">Monday</string>
@@ -169,7 +170,8 @@
     <string name="record_latest_images">Record recently viewed images when turned on</string>
     <string name="selected">selected</string>
     <string name="page_mode">Flip mode</string>
-    <string name="media_attr">Media Attr</string>
+    <string name="media_attr">Media attribute</string>
+    <string name="media_info">Media info</string>
     <string name="look_settings">Browse settings</string>
     <string name="custom">Custom</string>
     <string name="settings">Settings</string>
@@ -378,7 +380,7 @@
         <item>Delete forever</item>
         <item>Recycle Bin </item>
     </string-array>
-    <string name="search_hint">Please enter a photo name or album keyword</string>
+    <string name="search_hint">photo name,album name ...</string>
     <string name="auto_hide_desc">Going to the photo detail page will automatically hide the bottom and top components.</string>
     <string name="auto_hide">Auto hide</string>
     <string name="force_maximum_screen_brightness"> Force maximum screen brightness</string>
@@ -408,7 +410,7 @@
     <string name="filter_file_size_unit"> Filter file size (unit/kb) </string>
     <string name="filter_file_size">Filter files smaller than a specified size.</string>
 
-    <string name="use_privacy_camera">Main page use privacy camera</string>
+    <string name="use_privacy_camera">Main page use APP camera</string>
     <string name="use_system_camera">Main page use system camera</string>
     <string name="hide_privacy_camera_from_recently_task">Hide privacy camera from recently task</string>
     <string name="hide_privacy_camera_from_recently_task_desc">Open the private camera from the shortcut, and after exiting the current page, it will be hidden from the multitasking window</string>
@@ -430,5 +432,27 @@
     <string name="set_default_app">Set default APP</string>
     <string name="clear_default_app">Clear default App</string>
     <string name="default_app_cleared">Default APP cleared</string>
-
+    <string name="camera_settings">Camera settings</string>
+    <string name="back_up">Back-up</string>
+    <string name="dimensions">Dimensions</string>
+    <string name="duration">Duration</string>
+    <string name="brand">Brand</string>
+    <string name="model">Model</string>
+    <string name="focal_length">Focal-length</string>
+    <string name="aperture">Aperture</string>
+    <string name="exposure">Exposure</string>
+    <string name="altitude">altitude</string>
+    <string name="white_balance">White-balance</string>
+    <string name="flash">Flash</string>
+    <string name="automatic">Automatic</string>
+    <string name="manual">Manual</string>
+    <string name="disable_qr_code_file_sharing">Disable QR Code File Sharing</string>
+    <string name="enable_qr_code_file_sharing">Enable QR Code File Sharing</string>
+    <string name="qr_code_expires_soon">The QR code will expire in 3 minutes. Please share it as soon as possible!</string>
+    <string name="wifi_not_connected">Not connected to Wi-Fi. This feature is unavailable.</string>
+    <string name="capture_time">Capture Time</string>
+    <string name="delete_time">Delete Time</string>
+    <string name="original_path">Original Path</string>
+    <string name="file_not_found">File not found, unable to view</string>
+    <string name="browse_time">Browse Time</string>
 </resources>
