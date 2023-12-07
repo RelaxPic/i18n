@@ -2,9 +2,9 @@ apply plugin: 'com.android.library'
 
 android {
     namespace 'com.relaxpic.android.i18n'
-    compileSdk 34
+    compileSdkVersion compileSdkVersionNumber as int
     defaultConfig {
-        minSdk 25
-        targetSdk 34
+        minSdk minSdkVersionNumber
+        targetSdk targetSdkVersionNumber
     }
 }
