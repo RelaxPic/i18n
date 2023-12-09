@@ -198,14 +198,6 @@
     <string name="need_unlock">需要解锁剩余实验性功能</string>
     <string name="unlock_faild">解锁失败。请联系开发者，参与实验性功能测试。</string>
 
-    <string name="srl_header_pulling">  </string>
-    <string name="srl_header_refreshing">  </string>
-    <string name="srl_header_loading">  </string>
-    <string name="srl_header_release">松开进入隐私空间</string>
-    <string name="srl_header_finish">  </string>
-    <string name="srl_header_failed">  </string>
-    <string name="srl_header_update">  </string>
-    <string name="srl_photo_header_update">上次更新 M-d HH:mm</string>
 
     <string name="not_found_application">没有找到合适的应用</string>
     <string name="common_permission_description">权限说明</string>

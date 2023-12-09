@@ -328,14 +328,7 @@
         <item>File type</item>
     </string-array>
 
-    <string name="srl_header_pulling">  </string>
-    <string name="srl_header_refreshing">  </string>
-    <string name="srl_header_loading">  </string>
-    <string name="srl_header_release">Release to open privacy album</string>
-    <string name="srl_header_finish">  </string>
-    <string name="srl_header_failed">  </string>
-    <string name="srl_header_update">  </string>
-    <string name="srl_photo_header_update">上次更新 M-d HH:mm</string>
+
     <string name="move_to_privicy_album">Move to privicy  album</string>
 
     <string-array name="language">
