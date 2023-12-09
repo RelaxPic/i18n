@@ -455,6 +455,7 @@
     <string name="original_path">Original Path</string>
     <string name="file_not_found">File not found, unable to view</string>
     <string name="browse_time">Browse Time</string>
+    <string name="renaming_not_allowed">Renaming not allowed</string>
     <string name="add_column">Add a Column</string>
     <string name="reduce_column">Reduce a Column</string>
     <string name="select_column_count">Select Column Count</string>

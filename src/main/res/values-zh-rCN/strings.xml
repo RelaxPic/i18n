@@ -422,5 +422,6 @@
     <string name="add_column">增加一列</string>
     <string name="reduce_column">较少一列</string>
     <string name="select_column_count">选择列数</string>
+    <string name="renaming_not_allowed">不可重命名</string>
 </resources>
 
