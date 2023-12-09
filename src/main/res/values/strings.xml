@@ -114,9 +114,6 @@
     <string name="allow_discover">Allow to be discovered by other devices</string>
     <string name="allow_discover_tips">Turn on this option, the device can be discovered by other devices, and can receive delivery requests from other devices (recommended to enable).</string>
     <string name="back">Back</string>
-    <string name="not_supported_open_file_manager">The device does not support opening the file manager!</string>
-    <string name="not_supported_send_shortcut">The device does not support send shortcut to launcher</string>
-    <string name="not_supported_this_settings">The device does not support this settings</string>
     <string name="search">Search</string>
     <string name="input_unlock_code">Please enter the unlock code</string>
     <string name="copy_to_clipboard">Copy to clipboard</string>
@@ -124,7 +121,6 @@
     <string name="copied">Has been copied to the clipboard</string>
     <string name="file_size">File size</string>
     <string name="file_path">File path</string>
-    <string name="file_path_ont_supported">The file path does not support</string>
     <string name="check_update">Check for new version</string>
     <string name="scan_media">Scan media</string>
     <string name="other">Other</string>
@@ -165,7 +161,7 @@
     <string name="photoGroup">Photo grouping</string>
     <string name="recover_file">recover files</string>
     <string name="renewal_file">Postponed deletion</string>
-    <string name="cancel_selected">Uncheck</string>
+    <string name="deselect">Deselect</string>
     <string name="latest_images">Recently Viewed Pictures Videos</string>
     <string name="record_latest_images">Record recently viewed images when turned on</string>
     <string name="selected">selected</string>
@@ -260,7 +256,6 @@
     <string name="un_lock_tool">Unlock remaining experimental features</string>
     <string name="need_unlock">Need to unlock remaining experimental features</string>
     <string name="unlock_faild">Unlock failed. Please contact the developer WeChat to participate in the experimental function test</string>
-    <string name="not_supported_privicy_file">Deletion of private files is not supported</string>
     <string name="on">On</string>
     <string name="off">Off</string>
     <string name="favaite">Favaite</string>
@@ -311,8 +306,9 @@
         <item>@string/move</item>
         <item>@string/copy</item>
     </string-array>
+    <string name="full_screen_view" translatable="false">Full screen view</string>
     <string-array name="albumOperaArray">
-        <item>Full screen view</item>
+        <item>@string/full_screen_view</item>
         <item>Rename</item>
         <item>Copy</item>
         <item>Mode</item>
@@ -455,8 +451,10 @@
     <string name="original_path">Original Path</string>
     <string name="file_not_found">File not found, unable to view</string>
     <string name="browse_time">Browse Time</string>
-    <string name="renaming_not_allowed">Renaming not allowed</string>
     <string name="add_column">Add a Column</string>
     <string name="reduce_column">Reduce a Column</string>
     <string name="select_column_count">Select Column Count</string>
+    <string name="operation_not_supported">Operation not supported</string>
+    <string name="unpin">Unpin</string>
+
 </resources>

@@ -47,9 +47,6 @@
     </string-array>
     <string name="version_name">版本号</string>
     <string name="file_path">路径</string>
-    <string name="file_path_ont_supported">该路径不支持打开</string>
-    <string name="not_supported_open_file_manager">该设备不支持打开文件管理器</string>
-    <string name="not_supported_send_shortcut">当前设备不支持发送快捷方式到桌面</string>
     <string name="check_update">检查新版本</string>
     <string name="scan_media">扫描图片视频</string>
     <string name="other">其它</string>
@@ -89,7 +86,8 @@
     <string name="photoGroup">照片分组</string>
     <string name="recover_file">恢复文件</string>
     <string name="renewal_file">延期删除</string>
-    <string name="cancel_selected">取消选中</string>
+    <string name="deselect">取消选中</string>
+    <string name="unpin">取消置顶</string>
     <string name="latest_images">最近查看的图片</string>
     <string name="selected">已选择</string>
     <string name="page_mode">浏览翻页模式</string>
@@ -199,7 +197,6 @@
     <string name="un_lock_tool">解锁剩余实验性功能</string>
     <string name="need_unlock">需要解锁剩余实验性功能</string>
     <string name="unlock_faild">解锁失败。请联系开发者，参与实验性功能测试。</string>
-    <string name="not_supported_privicy_file">不支持私有文件</string>
 
     <string name="srl_header_pulling">  </string>
     <string name="srl_header_refreshing">  </string>
@@ -379,7 +376,6 @@
     <string name="hide_privacy_camera_from_recently_task_desc">从快捷方式打开相机，退出当前页面后将从多任务窗口隐藏</string>
     <string name="volume_key_up_quick_close_camera">音量+键快速关闭从快捷方式打开的相机</string>
     <string name="turn_off_privacy_camera_quickly">快速关闭相机</string>
-    <string name="not_supported_this_settings">当前设备不支持设置</string>
     <string name="camera">相机</string>
     <string name="use_privacy_album_tips">请勿随意卸载当前应用，隐私空间的内容将随应用卸载而删除。</string>
     <string name="tips">友情提示</string>
@@ -422,6 +418,6 @@
     <string name="add_column">增加一列</string>
     <string name="reduce_column">较少一列</string>
     <string name="select_column_count">选择列数</string>
-    <string name="renaming_not_allowed">不可重命名</string>
+    <string name="operation_not_supported">该操作不支持</string>
 </resources>
 
