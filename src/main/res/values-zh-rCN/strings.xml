@@ -382,7 +382,7 @@
     <string name="choose">选择</string>
     <string name="system_default_selector">系统默认选择器</string>
     <string name="set_default_app">设置默认应用</string>
-    <string name="clear_default_app">清理默认应用</string>
+    <string name="clear_default_video_app">清理默认视频播放应用</string>
     <string name="default_app_cleared">默认应用已清理</string>
     <string name="camera_settings">拍摄参数</string>
     <string name="back_up">备份</string>
@@ -411,5 +411,6 @@
     <string name="reduce_column">较少一列</string>
     <string name="select_column_count">选择列数</string>
     <string name="operation_not_supported">该操作不支持</string>
+    <string name="pin_sort">固定当前排序</string>
 </resources>
 
