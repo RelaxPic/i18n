@@ -91,6 +91,7 @@
     <string name="latest_images">最近查看的图片</string>
     <string name="selected">已选择</string>
     <string name="page_mode">浏览翻页模式</string>
+    <string name="default_play_speed">默认播放速度</string>
     <string name="media_attr">媒体属性</string>
     <string name="media_info">媒体信息</string>
     <string name="look_settings">浏览设置</string>

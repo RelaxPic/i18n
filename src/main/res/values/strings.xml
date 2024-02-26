@@ -166,6 +166,7 @@
     <string name="record_latest_images">Record recently viewed images when turned on</string>
     <string name="selected">selected</string>
     <string name="page_mode">Flip mode</string>
+    <string name="default_play_speed">Default play speed</string>
     <string name="media_attr">Media attribute</string>
     <string name="media_info">Media info</string>
     <string name="look_settings">Browse settings</string>
@@ -177,6 +178,7 @@
         <item>Vertical Page Flip Mode (recommended)</item>
         <item>Horizontal Page Flip Mode</item>
     </string-array>
+
 
     <string-array name="media_attr">
         <item>Resolution</item>
@@ -261,13 +263,15 @@
     <string name="favaite">Favaite</string>
     <string name="more">More</string>
     <string-array name="speed_array">
-
         <item>0.5X</item>
         <item>0.75X</item>
         <item>1.0X</item>
         <item>1.25X</item>
         <item>1.5X</item>
+        <item>1.75X</item>
         <item>2.0X</item>
+        <item>2.5X</item>
+        <item>3.0X</item>
     </string-array>
     <string-array name="page_mode_array_value">
         <item>0</item>
