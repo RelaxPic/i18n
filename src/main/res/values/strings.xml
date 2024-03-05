@@ -390,8 +390,8 @@
     <string name="export_log">Export logs</string>
     <string name="enableLogRecord">Enable log record</string>
     <string name="loadImageError">Error loading image. Please contact the developer to provide feedback on the scenario where this occurred.</string>
-    <string name="conn_success">Conn Success</string>
-    <string name="conn_faild">Conn Faild</string>
+    <string name="connected">Connected</string>
+    <string name="connecting">Connecting</string>
     <string name="logout">Logout</string>
     <string name="copy_to_album">Copy to album</string>
     <string name="default_cover">Default Cover</string>

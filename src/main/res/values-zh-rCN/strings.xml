@@ -353,8 +353,8 @@
     <string name="enableLogRecord">开启日志记录</string>
     <string name="notFoundLog">找不到日志，请确保开启日志记录</string>
     <string name="loadImageError">加载图片错误,请联系开发者反馈出现该情况的场景。</string>
-    <string name="conn_success">连接成功</string>
-    <string name="conn_faild">连接失败</string>
+    <string name="connected">已连接</string>
+    <string name="connecting">连接中</string>
     <string name="logout">注销登录</string>
     <string name="copy_to_album">复制到相册</string>
     <string name="default_cover">默认封面</string>
