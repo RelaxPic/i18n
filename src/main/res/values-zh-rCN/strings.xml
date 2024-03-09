@@ -363,7 +363,7 @@
     <string name="filter_video_duration">过滤小于指定视频长度</string>
     <string name="filter_file_size_unit">过滤文件大小(单位/kb)</string>
     <string name="filter_file_size">过滤小于指定文件大小</string>
-    <string name="use_privacy_camera">主页使用应用相机</string>
+    <string name="use_privacy_camera">主页使用隐私相机</string>
     <string name="use_system_camera">主页使用系统相机</string>
     <string name="hide_privacy_camera_from_recently_task">最近的任务中隐藏相机</string>
     <string name="hide_privacy_camera_from_recently_task_desc">从快捷方式打开相机，退出当前页面后将从多任务窗口隐藏</string>

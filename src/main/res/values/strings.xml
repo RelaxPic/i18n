@@ -401,7 +401,7 @@
     <string name="filter_file_size_unit"> Filter file size (unit/kb) </string>
     <string name="filter_file_size">Filter files smaller than a specified size.</string>
 
-    <string name="use_privacy_camera">Main page use APP camera</string>
+    <string name="use_privacy_camera">Main page use privacy camera</string>
     <string name="use_system_camera">Main page use system camera</string>
     <string name="hide_privacy_camera_from_recently_task">Hide privacy camera from recently task</string>
     <string name="hide_privacy_camera_from_recently_task_desc">Open the private camera from the shortcut, and after exiting the current page, it will be hidden from the multitasking window</string>
