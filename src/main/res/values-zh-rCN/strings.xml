@@ -339,6 +339,7 @@
     <string name="force_maximum_screen_brightness">强制最大亮度</string>
     <string name="force_maximum_screen_brightness_desc">在日出期间，查看照片时强制最大亮度。</string>
     <string name="find_latest_version">发现新版本</string>
+    <string name="check_update_faild">检测更新失败</string>
     <string name="items">%s 项内容</string>
     <string name="update_now">立刻更新</string>
     <string name="app_feedback">慢图浏览问题反馈</string>

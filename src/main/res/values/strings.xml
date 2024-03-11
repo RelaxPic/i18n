@@ -377,6 +377,7 @@
     <string name="force_maximum_screen_brightness"> Force maximum screen brightness</string>
     <string name="force_maximum_screen_brightness_desc">Forces maximum brightness when viewing photos during sunrise.</string>
     <string name="find_latest_version">Find latest version</string>
+    <string name="check_update_faild">Check update faild</string>
     <string name="items">%s items</string>
     <string name="update_now">Update Now</string>
     <string name="app_feedback">App feedback</string>
