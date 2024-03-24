@@ -101,6 +101,8 @@
     <string name="privacy_camera">相机</string>
     <string name="file_helper">文件传输助手</string>
     <string name="file_helper_service_setting">文件传输助手账号设置</string>
+    <string name="open_file_helper_via_app">应用内打开文件传输助手(免登陆)</string>
+    <string name="open_file_helper_via_browser">浏览器打开文件传输助手</string>
     <string-array name="page_mode_array">
         <item>上下翻页(推荐)</item>
         <item>左右翻页</item>

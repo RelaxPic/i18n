@@ -175,6 +175,8 @@
     <string name="privacy_camera">Privacy camera</string>
     <string name="file_helper">File helper</string>
     <string name="file_helper_service_setting">File helper settings</string>
+    <string name="open_file_helper_via_app">Open file helper via App(loginless)</string>
+    <string name="open_file_helper_via_browser">Open file helper via browser</string>
     <string-array name="page_mode_array">
         <item>Vertical Page Flip Mode (recommended)</item>
         <item>Horizontal Page Flip Mode</item>
