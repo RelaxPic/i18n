@@ -99,6 +99,8 @@
     <string name="settings">设置</string>
     <string name="privacy_camera_settings">相机设置</string>
     <string name="privacy_camera">相机</string>
+    <string name="file_helper">文件传输助手</string>
+    <string name="file_helper_service_setting">文件传输助手账号设置</string>
     <string-array name="page_mode_array">
         <item>上下翻页(推荐)</item>
         <item>左右翻页</item>
@@ -191,7 +193,6 @@
     <string name="login_failed">登录失败</string>
     <string name="send_file_manager_to_desktop">将系统文件管理器发送到桌面</string>
     <string name="send_privacy_camera_to_desktop">将相机发送到桌面</string>
-    <string name="start_http_file_server">HTTP文件服务</string>
     <string name="file_manager">文件管理器</string>
     <string name="existed">已存在</string>
     <string name="un_lock_tool">解锁剩余实验性功能</string>
