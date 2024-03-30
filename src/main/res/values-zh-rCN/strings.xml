@@ -391,6 +391,8 @@
     <string name="default_app_cleared">默认应用已清理</string>
     <string name="camera_settings">拍摄参数</string>
     <string name="back_up">备份</string>
+    <string name="back_up_settings">备份设置</string>
+    <string name="back_up_progress">备份进度</string>
     <string name="dimensions">宽高</string>
     <string name="duration">时长</string>
     <string name="brand">品牌</string>
