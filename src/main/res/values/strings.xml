@@ -430,7 +430,7 @@
     <string name="camera_settings">Camera settings</string>
     <string name="back_up">Back-up</string>
     <string name="back_up_settings">Back-up settings</string>
-    <string name="back_up_progress">Back-up progress</string>
+    <string name="back_up_album">Back-up album</string>
     <string name="dimensions">Dimensions</string>
     <string name="duration">Duration</string>
     <string name="brand">Brand</string>
