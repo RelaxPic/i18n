@@ -421,5 +421,7 @@
     <string name="operation_not_supported">该操作不支持</string>
     <string name="pin_sort">固定当前排序</string>
     <string name="depth_infinity_support">支持infinity</string>
+    <string name="net_connect_error">网络连接错误</string>
+    <string name="download_error">Download error</string>
 </resources>
 

@@ -460,4 +460,6 @@
     <string name="unpin">Unpin</string>
     <string name="pin_sort">Pin current sort</string>
     <string name="depth_infinity_support">Depth infinity support</string>
+    <string name="net_connect_error">Net connect error</string>
+    <string name="download_error">Download error</string>
 </resources>
