@@ -423,5 +423,7 @@
     <string name="depth_infinity_support">支持infinity</string>
     <string name="net_connect_error">网络连接错误</string>
     <string name="download_error">Download error</string>
+    <string name="clear_all_data">清理所有传输数据</string>
+    <string name="clear_all_data_finished">传输数据已被清理！</string>
 </resources>
 

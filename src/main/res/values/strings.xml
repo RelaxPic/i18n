@@ -462,4 +462,6 @@
     <string name="depth_infinity_support">Depth infinity support</string>
     <string name="net_connect_error">Net connect error</string>
     <string name="download_error">Download error</string>
+    <string name="clear_all_data">Clear all data</string>
+    <string name="clear_all_data_finished">The transmission data has been cleaned up!</string>
 </resources>
