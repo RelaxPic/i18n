@@ -127,7 +127,8 @@
     <string name="upgrade_history">Upgrade history</string>
     <string name="recycleBin">Recycle bin</string>
     <string name="download_list">Download list</string>
-    <string name="input_feedback">Feedback</string>
+    <string name="goto_feedback">Feedback</string>
+    <string name="user_manual">User manual</string>
     <string name="clear_cache">Clear_cache</string>
     <string name="photo">Photo</string>
     <string name="album">Album</string>

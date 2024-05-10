@@ -53,7 +53,8 @@
     <string name="upgrade_history">更新历史</string>
     <string name="recycleBin">回收站</string>
     <string name="download_list">下载列表</string>
-    <string name="input_feedback">进入社区反馈</string>
+    <string name="goto_feedback">进入社区反馈</string>
+    <string name="user_manual">使用说明</string>
     <string name="clear_cache">清理缓存</string>
     <string name="photo">照片</string>
     <string name="album">相册</string>
@@ -173,8 +174,6 @@
     <string name="favaite">收藏</string>
     <string name="on">开启</string>
     <string name="off">关闭</string>
-
-
     <string-array name="query_range_array">
         <item>照片</item>
         <item>视频</item>
