@@ -425,5 +425,10 @@
     <string name="clear_all_data">清理所有传输数据</string>
     <string name="clear_all_data_finished">传输数据已被清理！</string>
     <string name="enable_play_background">允许后台播放视频</string>
+    <string-array name="play_mode_array">
+        <item>默认</item>
+        <item>单曲循环</item>
+        <item>列表循环</item>
+    </string-array>
 </resources>
 
