@@ -430,5 +430,14 @@
         <item>单曲循环</item>
         <item>列表循环</item>
     </string-array>
+    <string-array name="file_help_long_press_media_op">
+        <item>分享</item>
+        <item>保存到相册</item>
+        <item>保存到隐私空间</item>
+    </string-array>
+    <string-array name="file_help_long_press_file_op">
+        <item>分享</item>
+        <item>保存到Download目录</item>
+    </string-array>
 </resources>
 
