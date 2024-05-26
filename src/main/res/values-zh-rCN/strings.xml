@@ -3,6 +3,7 @@
     <string name="cancel">取消</string>
     <string name="search">搜索</string>
     <string name="video">视频</string>
+    <string name="recent">最近</string>
     <string name="image">图片</string>
     <string name="gridCount">列数</string>
     <string name="mtll_recieve">slow_pic</string>

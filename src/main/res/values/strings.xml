@@ -54,6 +54,7 @@
     <string name="selectAll">select all</string>
     <string name="unSelectAll">reverse selection</string>
     <string name="video">Videos</string>
+    <string name="recent">Recent</string>
     <string name="image">Images</string>
     <string name="gridCount">Number of columns</string>
     <string name="mtll_recieve">slow_pic</string>
