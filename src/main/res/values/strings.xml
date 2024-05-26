@@ -472,6 +472,7 @@
     <string name="clear_all_data">Clear all data</string>
     <string name="clear_all_data_finished">The transmission data has been cleaned up!</string>
     <string name="enable_play_background">Enable play video playback</string>
+    <string name="volume_key_page_flipping">Volume key page flipping</string>
     <string-array name="file_help_long_press_media_op">
         <item>Share</item>
         <item>Save to public album</item>
