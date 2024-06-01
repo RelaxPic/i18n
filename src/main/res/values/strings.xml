@@ -122,6 +122,7 @@
     <string name="copied">Has been copied to the clipboard</string>
     <string name="file_size">File size</string>
     <string name="file_path">File path</string>
+    <string name="modify_time"> modify time</string>
     <string name="check_update">Check for new version</string>
     <string name="scan_media">Scan media</string>
     <string name="other">Other</string>

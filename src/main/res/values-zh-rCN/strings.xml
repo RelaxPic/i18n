@@ -15,6 +15,7 @@
     <string name="back">返回</string>
     <string name="copied">已经复制到剪贴板</string>
     <string name="file_size">文件大小</string>
+    <string name="modify_time">修改时间</string>
     <string name="input_shortcut_name">请输入快捷方式名称</string>
     <string name="input_unlock_code">请输入解锁代码</string>
 
