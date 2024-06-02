@@ -90,7 +90,7 @@
     <string name="renewal_file">延期删除</string>
     <string name="deselect">取消选中</string>
     <string name="unpin">取消置顶</string>
-    <string name="latest_images">最近查看的图片</string>
+    <string name="browser_history">浏览记录</string>
     <string name="selected">已选择</string>
     <string name="page_mode">浏览翻页模式</string>
     <string name="default_play_speed">默认播放速度</string>

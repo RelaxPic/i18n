@@ -164,7 +164,7 @@
     <string name="recover_file">recover files</string>
     <string name="renewal_file">Postponed deletion</string>
     <string name="deselect">Deselect</string>
-    <string name="latest_images">Recently Viewed Pictures Videos</string>
+    <string name="browser_history">Browsing history</string>
     <string name="record_latest_images">Record recently viewed images when turned on</string>
     <string name="selected">selected</string>
     <string name="page_mode">Flip mode</string>
