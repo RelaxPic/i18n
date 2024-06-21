@@ -485,4 +485,5 @@
         <item>Share</item>
         <item>Save Download</item>
     </string-array>
+    <string name="default_camera_not_found">找不到系统默认相机</string>
 </resources>

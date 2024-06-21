@@ -444,5 +444,6 @@
         <item>分享</item>
         <item>保存到Download目录</item>
     </string-array>
+    <string name="default_camera_not_found">Default Camera not found</string>
 </resources>
 
