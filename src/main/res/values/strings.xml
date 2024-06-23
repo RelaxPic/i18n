@@ -433,8 +433,7 @@
     <string name="choose">Choose</string>
     <string name="system_default_selector">System default selector</string>
     <string name="set_default_app">Set default APP</string>
-    <string name="clear_default_video_app">Clear default video player </string>
-    <string name="clear_default_edit_app">Clear default photo editor </string>
+    <string name="clear_default_app">Clear default photo </string>
     <string name="default_app_cleared">Default APP cleared</string>
     <string name="default_app">Default APP </string>
     <string name="camera_settings">Camera settings</string>

@@ -389,8 +389,7 @@
     <string name="system_default_selector">系统默认选择器</string>
     <string name="set_default_app">设置默认应用</string>
     <string name="default_app">默认应用</string>
-    <string name="clear_default_video_app">清理默认视频播放应用</string>
-    <string name="clear_default_edit_app">清理默认编辑应用</string>
+    <string name="clear_default_app">清除默认应用</string>
     <string name="default_app_cleared">默认应用已清理</string>
     <string name="camera_settings">拍摄参数</string>
     <string name="back_up">备份</string>
