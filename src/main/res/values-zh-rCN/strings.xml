@@ -443,6 +443,8 @@
         <item>分享</item>
         <item>保存到Download目录</item>
     </string-array>
-    <string name="default_camera_not_found">Default Camera not found</string>
+    <string name="app_not_found">应用找不到</string>
+    <string name="default_camera_not_found">找不到系统默认相机</string>
+    <string name="open_failed">打开失败</string>
 </resources>
 

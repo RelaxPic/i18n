@@ -484,5 +484,7 @@
         <item>Share</item>
         <item>Save Download</item>
     </string-array>
-    <string name="default_camera_not_found">找不到系统默认相机</string>
+    <string name="app_not_found">App not found</string>
+    <string name="default_camera_not_found">Default Camera not found</string>
+    <string name="open_failed">Open failed</string>
 </resources>
