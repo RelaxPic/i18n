@@ -150,7 +150,6 @@
     <string name="account_exist">账户已存在</string>
     <string name="refresh">刷新</string>
     <string name="copy_link">复制链接</string>
-    <string name="open_in_browser">在浏览器中打开</string>
     <string name="file_desc">文件名称降序</string>
     <string name="file_name">文件名称</string>
     <string name="file_asc">文件名称升序</string>
@@ -260,7 +259,7 @@
     <string name="select_nearby_device">选择附近的设备</string>
     <string name="add_new_device">添加新的设备</string>
     <string name="delete">删除</string>
-    <string name="confirm_delte">确认删除吗?</string>
+    <string name="confirm_delte">确认删除？</string>
     <string name="delete_device">删除设备</string>
     <string name="device_name">设备名字</string>
     <string name="device_model">设备型号</string>
@@ -446,5 +445,6 @@
     <string name="app_not_found">应用找不到</string>
     <string name="default_camera_not_found">找不到系统默认相机</string>
     <string name="open_failed">打开失败</string>
+    <string name="open_in_browser">在浏览器中打开？</string>
 </resources>
 

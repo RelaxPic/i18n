@@ -69,7 +69,7 @@
     <string name="select_nearby_device">Select a nearby device</string>
     <string name="add_new_device">Add a new device</string>
     <string name="delete">Delete</string>
-    <string name="confirm_delte">Confirm to delete?</string>
+    <string name="confirm_delte">Delete?</string>
     <string name="delete_device">Delete device</string>
     <string name="device_name">Device name</string>
     <string name="device_model">Device model</string>
@@ -226,7 +226,6 @@
     <string name="account_exist">account already exists</string>
     <string name="refresh">Refresh</string>
     <string name="copy_link">Copy Link</string>
-    <string name="open_in_browser">Open with Browser</string>
     <string name="file_desc">File name desc</string>
     <string name="file_name">File name</string>
     <string name="file_asc">File name asc</string>
@@ -487,4 +486,5 @@
     <string name="app_not_found">App not found</string>
     <string name="default_camera_not_found">Default Camera not found</string>
     <string name="open_failed">Open failed</string>
+    <string name="open_in_browser">Open in browser?</string>
 </resources>
