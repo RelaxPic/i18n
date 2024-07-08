@@ -1,23 +1,75 @@
 <resources>
-    <string name="appCrash">程序崩溃了</string>
+    <string name="common_permission_description">权限说明</string>
+    <string name="common_permission_message">使用此功能需要先授予%s</string>
+    <string name="common_permission_granted">授予</string>
+    <string name="common_permission_denied">取消</string>
+    <string name="common_permission_alert">授权提醒</string>
+    <string name="common_permission_fail_hint">授权失败，请正确授予权限</string>
+    <string name="common_permission_fail_assign_hint">授权失败，请正确授予%s</string>
+    <string name="common_permission_manual_fail_hint">获取权限失败，请手动授予权限</string>
+    <string name="common_permission_manual_assign_fail_hint">获取权限失败，请手动授予%s</string>
+    <string name="common_permission_background_location_fail_hint">获取后台定位权限失败，\n请您选择《始终允许》</string>
+    <string name="common_permission_background_sensors_fail_hint">获取后台传感器权限失败，\n请您选择《始终允许》</string>
+    <string name="common_permission_media_location_hint_fail">获取媒体位置权限失败\n请清除应用数据后重试</string>
+    <string name="common_permission_goto_setting_page">前往授权</string>
+    <string name="common_permission_calendar">日历权限</string>
+    <string name="common_permission_camera">相机权限</string>
+    <string name="common_permission_contacts">通讯录权限</string>
+    <string name="common_permission_location">定位权限</string>
+    <string name="common_permission_location_background">后台定位权限</string>
+    <string name="common_permission_nearby_devices">附近的设备权限</string>
+    <string name="common_permission_microphone">麦克风权限</string>
+    <string name="common_permission_phone">电话权限</string>
+    <string name="common_permission_call_logs">通话记录权限</string>
+    <string name="common_permission_body_sensors">身体传感器权限</string>
+    <string name="common_permission_body_sensors_background">后台身体传感器权限</string>
+    <string name="common_permission_activity_recognition_api29">健身运动权限</string>
+    <string name="common_permission_activity_recognition_api30">身体活动权限</string>
+    <string name="common_permission_access_media_location">读取媒体文件位置权限</string>
+    <string name="common_permission_sms">短信权限</string>
+    <string name="common_permission_storage">存储权限</string>
+    <string name="common_permission_post_notifications">发送通知权限</string>
+    <string name="common_permission_image_and_video">照片和视频权限</string>
+    <string name="common_permission_music_and_audio">音乐和音频权限</string>
+    <string name="common_permission_all_file_access">所有文件访问权限</string>
+    <string name="common_permission_install_unknown_apps">安装应用权限</string>
+    <string name="common_permission_display_over_other_apps">悬浮窗权限</string>
+    <string name="common_permission_modify_system_settings">修改系统设置权限</string>
+    <string name="common_permission_allow_notifications">通知权限</string>
+    <string name="common_permission_allow_notifications_access">通知栏监听权限</string>
+    <string name="common_permission_apps_with_usage_access">查看使用情况权限</string>
+    <string name="common_permission_alarms_reminders">查看闹钟提醒权限</string>
+    <string name="common_permission_do_not_disturb_access">勿扰权限</string>
+    <string name="common_permission_ignore_battery_optimize">忽略电池优化权限</string>
+    <string name="common_permission_picture_in_picture">画中画权限</string>
+    <string name="common_permission_vpn">\tVPN\t权限</string>
+
+    <string name="app_name">慢图浏览</string>
     <string name="cancel">取消</string>
     <string name="search">搜索</string>
     <string name="video">视频</string>
-    <string name="recent">最近</string>
     <string name="image">图片</string>
-    <string name="gridCount">列数</string>
-    <string name="mtll_recieve">slow_pic</string>
-    <string name="albumSort">相册排序</string>
-    <string name="photoSort">照片排序</string>
-    <string name="sort">排序</string>
-    <string name="gotoExcludeAlbum">隐藏相册</string>
-    <string name="fileFilter">过滤文件</string>
+    <string name="recent">最近</string>
+    <string name="grid_count">列数</string>
+    <string name="album_sort">相册排序</string>
+    <string name="photo_sort">照片排序</string>
+    <string name="hide_album">隐藏相册</string>
+    <string name="file_filter">过滤文件</string>
     <string name="back">返回</string>
-    <string name="copied">已经复制到剪贴板</string>
+    <string name="copied">已复制</string>
     <string name="file_size">文件大小</string>
     <string name="modify_time">修改时间</string>
     <string name="input_shortcut_name">请输入快捷方式名称</string>
-    <string name="input_unlock_code">请输入解锁代码</string>
+    <string name="input_file_name">请输入文件名</string>
+    <string name="rename">重命名</string>
+    <string name="copy">复制</string>
+    <string name="move">移动</string>
+    <string name="detail">详情</string>
+    <string name="pin_to_the_top">固定到顶部</string>
+    <string name="set_cover">设置封面</string>
+    <string name="move_to_private_space">移动到隐私空间</string>
+    <string name="enter_selection_mode">进入多选模式</string>
+    <string name="browse_seamlessly">无缝浏览</string>
 
     <string-array name="fileFilterArray">
         <item>视频</item>
@@ -25,43 +77,22 @@
         <item>RAW照片</item>
         <item>其他照片</item>
     </string-array>
-    <string-array name="deleteSelect">
-        <item>回收站</item>
-        <item>永久删除</item>
-    </string-array>
-    <string-array name="albumOperaArray">
-        <item>无缝浏览</item>
-        <item>重命名</item>
-        <item>复制到</item>
-        <item>移动到</item>
-        <item>删除</item>
-        <item>隐藏当前相册</item>
-        <item>相册详情</item>
-        <item>固定到顶部</item>
-        <item>设置封面</item>
-        <item>移动到加密相册</item>
-        <item>进入多选模式</item>
-    </string-array>
 
-    <string-array name="comicOperaArray">
-        <item>排序</item>
-        <item>文件过滤</item>
-    </string-array>
     <string name="version_name">版本号</string>
+    <string name="private_space">隐私空间</string>
     <string name="file_path">路径</string>
-    <string name="check_update">检查新版本</string>
-    <string name="scan_media">扫描图片视频</string>
+    <string name="check_new_version">检查新版本</string>
+    <string name="media_scan">媒体扫描</string>
     <string name="other">其它</string>
-    <string name="upgrade_history">更新历史</string>
-    <string name="recycleBin">回收站</string>
-    <string name="download_list">下载列表</string>
-    <string name="goto_feedback">进入社区反馈</string>
+    <string name="update_history">更新历史</string>
+    <string name="recycle_bin">回收站</string>
+    <string name="move_to_recycle_bin">移动到回收站</string>
+    <string name="feedback">社区反馈</string>
     <string name="user_manual">使用说明</string>
     <string name="clear_cache">清理缓存</string>
     <string name="photo">照片</string>
     <string name="album">相册</string>
     <string name="update_success">更新成功</string>
-    <string name="delete_picture_browsing_history">删除图片浏览历史</string>
     <string name="year">年</string>
     <string name="this_year">今年</string>
     <string name="month">月</string>
@@ -86,21 +117,19 @@
     <string name="yyyy_year_day_hour">yyyy年M月d日H时</string>
     <string name="yyyy_year_day_hour_minture">yyyy年M月d日H时m分</string>
     <string name="photoGroup">照片分组</string>
-    <string name="recover_file">恢复文件</string>
-    <string name="renewal_file">延期删除</string>
-    <string name="deselect">取消选中</string>
-    <string name="unpin">取消置顶</string>
+    <string name="restore_file">恢复文件</string>
+    <string name="uncheck">取消选中</string>
     <string name="browser_history">浏览记录</string>
+    <string name="select_all">全选</string>
+    <string name="invert_selection">反选</string>
     <string name="selected">已选择</string>
     <string name="page_mode">浏览翻页模式</string>
-    <string name="default_play_speed">默认播放速度</string>
+    <string name="default_playback_speed">默认播放速度</string>
     <string name="media_attr">媒体属性</string>
     <string name="media_info">媒体信息</string>
-    <string name="look_settings">浏览设置</string>
-
-    <string name="custom">自定义</string>
+    <string name="browsing_settings">浏览设置</string>
+    <string name="custom">自定义设置</string>
     <string name="settings">设置</string>
-    <string name="privacy_camera_settings">相机设置</string>
     <string name="privacy_camera">相机</string>
     <string name="file_helper">文件传输助手</string>
     <string name="file_helper_service_setting">文件传输助手账号设置</string>
@@ -121,71 +150,46 @@
         <item>视频长度</item>
     </string-array>
 
-    <string name="request_pair">申请配对</string>
-    <string name="modify_device_config">修改设备配置</string>
-    <string name="receive_request_pair">收到来自设备:{}配对请求</string>
-    <string name="allow_device_direct_send_file">允许对方设备直接向我发送文件</string>
-    <string name="device_remark">设备备注</string>
-    <string name="request_reason_text">申请理由</string>
     <string name="cloud_sync">云同步</string>
-    <string name="show_on_cloud_sign">照片显示备份标记</string>
     <string name="grid_columns">网格列数</string>
     <string name="add_a_column">增加一列</string>
     <string name="reduce_a_column">减少一列</string>
-    <string name="select_columns">选择列数</string>
     <string name="upload_list">上传列表</string>
-    <string name="thrid_account_config">第三方账号配置</string>
+    <string name="thrid_account">第三方账号</string>
     <string name="add_thrid_account">添加账号</string>
     <string name="input_webdav_server_addr">WebDAV 服务器地址</string>
     <string name="username">用户名</string>
     <string name="password">密码</string>
     <string name="login">登录</string>
     <string name="save">保存</string>
-    <string name="default_net_pan_config">默认云盘配置</string>
     <string name="login_webdav">登录WebDAV</string>
-    <string name="developing">正在开发中</string>
+    <string name="under_development">正在开发中</string>
     <string name="input_server_addr">请输入服务器地址</string>
     <string name="input_username">请输入用户名</string>
     <string name="input_password">请输入密码</string>
     <string name="account_exist">账户已存在</string>
     <string name="refresh">刷新</string>
     <string name="copy_link">复制链接</string>
-    <string name="file_desc">文件名称降序</string>
     <string name="file_name">文件名称</string>
-    <string name="file_asc">文件名称升序</string>
-    <string name="copy">复制</string>
-    <string name="no_latest_version">无更新</string>
-    <string name="scan_finished">扫描完成</string>
+    <string name="no_updated">无更新</string>
+    <string name="scanning_done">扫描完成</string>
     <string name="scaning">正在扫描中</string>
     <string name="nothing">没有任何内容</string>
-    <string name="change_filter_config">更改过滤文件配置</string>
     <string name="count_photo">张照片</string>
     <string name="count_video">个视频</string>
     <string name="count_album">个相册</string>
     <string name="file_type">文件类型</string>
-    <string name="layout">布局方式</string>
-    <string name="query_range">查询范围</string>
-    <string name="merge_mode">聚合模式</string>
+
     <string name="day_theme">日间模式</string>
     <string name="night_theme">夜间模式</string>
     <string name="follow_system">跟随系统</string>
     <string name="theme_mode">主题模式</string>
     <string name="grid">网格布局</string>
     <string name="list">列表</string>
-    <string name="favaite">收藏</string>
+    <string name="favarite">收藏</string>
     <string name="on">开启</string>
     <string name="off">关闭</string>
-    <string-array name="query_range_array">
-        <item>照片</item>
-        <item>视频</item>
-        <item>相册</item>
-        <item>标签</item>
-        <item>地点</item>
-    </string-array>
-    <string-array name="how_to_add_photos_array">
-        <item>@string/move</item>
-        <item>@string/copy</item>
-    </string-array>
+
     <string name="localtion">位置</string>
     <string name="added_upload_list">已经添加到上传列表</string>
     <string name="expand_button_title">更多设置</string>
@@ -198,79 +202,15 @@
     <string name="send_privacy_camera_to_desktop">将相机发送到桌面</string>
     <string name="file_manager">文件管理器</string>
     <string name="existed">已存在</string>
-    <string name="un_lock_tool">解锁剩余实验性功能</string>
-    <string name="need_unlock">需要解锁剩余实验性功能</string>
-    <string name="unlock_faild">解锁失败。请联系开发者，参与实验性功能测试。</string>
-
-
-    <string name="not_found_application">没有找到合适的应用</string>
-    <string name="common_permission_description">权限说明</string>
-    <string name="common_permission_message">使用此功能需要先授予%s</string>
-    <string name="common_permission_granted">授予</string>
-    <string name="common_permission_denied">取消</string>
-    <string name="common_permission_alert">授权提醒</string>
-    <string name="common_permission_fail_hint">授权失败，请正确授予权限</string>
-    <string name="common_permission_fail_assign_hint">授权失败，请正确授予%s</string>
-    <string name="common_permission_manual_fail_hint">获取权限失败，请手动授予权限</string>
-    <string name="common_permission_manual_assign_fail_hint">获取权限失败，请手动授予%s</string>
-    <string name="common_permission_background_location_fail_hint">获取后台定位权限失败，\n请您选择《始终允许》</string>
-    <string name="common_permission_background_sensors_fail_hint">获取后台传感器权限失败，\n请您选择《始终允许》</string>
-    <string name="common_permission_media_location_hint_fail">获取媒体位置权限失败\n请清除应用数据后重试</string>
-    <string name="common_permission_goto_setting_page">前往授权</string>
-
-    <string name="common_permission_calendar">日历权限</string>
-    <string name="common_permission_camera">相机权限</string>
-    <string name="common_permission_contacts">通讯录权限</string>
-    <string name="common_permission_location">定位权限</string>
-    <string name="common_permission_location_background">后台定位权限</string>
-    <string name="common_permission_nearby_devices">附近的设备权限</string>
-    <string name="common_permission_microphone">麦克风权限</string>
-    <string name="common_permission_phone">电话权限</string>
-    <string name="common_permission_call_logs">通话记录权限</string>
-    <string name="common_permission_body_sensors">身体传感器权限</string>
-    <string name="common_permission_body_sensors_background">后台身体传感器权限</string>
-    <string name="common_permission_activity_recognition_api29">健身运动权限</string>
-    <string name="common_permission_activity_recognition_api30">身体活动权限</string>
-    <string name="common_permission_access_media_location">读取媒体文件位置权限</string>
-    <string name="common_permission_sms">短信权限</string>
-    <string name="common_permission_storage">存储权限</string>
-    <string name="common_permission_post_notifications">发送通知权限</string>
-    <string name="common_permission_image_and_video">照片和视频权限</string>
-    <string name="common_permission_music_and_audio">音乐和音频权限</string>
-
-    <string name="common_permission_all_file_access">所有文件访问权限</string>
-    <string name="common_permission_install_unknown_apps">安装应用权限</string>
-    <string name="common_permission_display_over_other_apps">悬浮窗权限</string>
-    <string name="common_permission_modify_system_settings">修改系统设置权限</string>
-    <string name="common_permission_allow_notifications">通知权限</string>
-    <string name="common_permission_allow_notifications_access">通知栏监听权限</string>
-    <string name="common_permission_apps_with_usage_access">查看使用情况权限</string>
-    <string name="common_permission_alarms_reminders">查看闹钟提醒权限</string>
-    <string name="common_permission_do_not_disturb_access">勿扰权限</string>
-    <string name="common_permission_ignore_battery_optimize">忽略电池优化权限</string>
-    <string name="common_permission_picture_in_picture">画中画权限</string>
-    <string name="common_permission_vpn">\tVPN\t权限</string>
-    <string name="app_name">慢图浏览</string>
-    <string name="selectAll">全选</string>
-    <string name="unSelectAll">反选</string>
+    <string name="could_not_find_an_appropriate_application">找不到合适的应用程序</string>
     <string name="request_shortcut_permission">需要授予桌面快捷方式权限</string>
-    <string name="find_nearby_device">寻找附近的设备</string>
-    <string name="paird_device">已经配对的设备</string>
-    <string name="select_nearby_device">选择附近的设备</string>
-    <string name="add_new_device">添加新的设备</string>
     <string name="delete">删除</string>
     <string name="confirm_delte">确认删除？</string>
-    <string name="delete_device">删除设备</string>
-    <string name="device_name">设备名字</string>
-    <string name="device_model">设备型号</string>
     <string name="confirm">确认</string>
     <string name="refuse">拒绝</string>
-    <string name="inputAlbumName">请输入相册名字</string>
+    <string name="input_album_name">请输入相册名字</string>
     <string name="no_longer_remind">不再提醒</string>
-    <string name="recycle_bin">回收站</string>
-    <string name="move_recycle_bin">移动到回收站</string>
     <string name="delete_forever">永久删除</string>
-    <string name="set_cover">设置封面</string>
     <string name="show_qrcode">显示二维码</string>
     <string name="share">分享</string>
     <string name="share_to">分享到</string>
@@ -285,37 +225,22 @@
     <string name="asc">升序</string>
     <string name="left_ration">向左旋转</string>
     <string name="right_ration">向右旋转</string>
-    <string name="rename">重命名</string>
-    <string name="input_file_name">请输入文件名</string>
     <string name="edit">编辑</string>
     <string name="set_wallpaper">设置壁纸</string>
-    <string name="move">移动</string>
-    <string name="detail">详情</string>
     <string name="open_by_other_app">其他应用打开</string>
     <string name="send_desktop">发送到桌面</string>
-    <string name="copy_to_clipboard">复制到剪贴板</string>
     <string name="fix_imageview">图片无法加载的时候，点我试一试</string>
-    <string name="nearby_device">附近的设备</string>
+    <string name="copy_to_clipboard">复制到剪贴板</string>
     <string name="user_random_id">用户随机ID</string>
     <string name="create_new_album">创建新相册</string>
     <string name="allow_check_update">自动更新</string>
     <string name="show_delete_dialog">显示删除提示对话框</string>
-    <string name="quick_send">快传</string>
-    <string name="allow_discover">允许被其他设备发现</string>
-    <string name="allow_discover_tips">打开此选项,设备可以被其他的设备发现,并且可以收到其他设备的投送请求（推荐开启）。</string>
     <string name="contact_us">联系开发者</string>
     <string name="move_to_privicy_album">移动到隐私空间</string>
-    <string name="private_album">隐私空间</string>
     <string name="language">语言</string>
     <string name="add_to_album">添加到</string>
     <string name="adding_photos">照片添加方式</string>
     <string name="not_found">找不到该媒体内容</string>
-
-    <string-array name="private_album_operation_array">
-        <item>@string/delete</item>
-        <item>@string/rename</item>
-        <item>移出隐私空间</item>
-    </string-array>
     <string name="move_2_album">移动到指定相册</string>
     <string name="create_your_privacy_album">创建您的隐私空间</string>
     <string name="create_pin">创建 PIN 码</string>
@@ -330,6 +255,7 @@
     <string name="no_perission_to_read_local_images">没有读取本地图片的权限</string>
     <string name="click_request_permissions">点击请求权限</string>
     <string name="remove_from_privacy_album">移出隐私空间</string>
+
     <string name="recycle_bin_and_history_images_safe_check">回收站ǀ最近查看的图片安全校验</string>
     <string name="safe_check_desc">打开后安全校验后，进入回收站或最近查看的图片，会要求输入隐私空间PIN码才可进入</string>
     <string name="enter_the_number_of_days_to_add_the_extension">输入要添加延期的天数</string>
@@ -337,7 +263,7 @@
     <string name="wallpapger_mode_desc">应用在夜间模式主题时，使用系统墙纸作为应用背景。</string>
     <string name="search_hint">请输入照片名称,相册关键字</string>
     <string name="record_latest_images">开启后，记录最近浏览的图片</string>
-    <string name="auto_hide_desc">进入照片详情页面，将自动隐藏底部和顶部组件。</string>
+    <string name="auto_hide_desc">进入照片详情页面，将自动隐藏底部和顶部组件</string>
     <string name="auto_hide">自动隐藏</string>
     <string name="force_maximum_screen_brightness">强制最大亮度</string>
     <string name="force_maximum_screen_brightness_desc">在日出期间，查看照片时强制最大亮度。</string>
@@ -352,8 +278,8 @@
     <string name="go_forward">前进</string>
     <string name="go_back">后退</string>
     <string name="file_too_much">文件过多，无法分享</string>
-    <string name="export_log">导出日志</string>
     <string name="my_account">我的账号</string>
+    <string name="export_log">导出日志</string>
     <string name="enableLogRecord">开启日志记录</string>
     <string name="notFoundLog">找不到日志，请确保开启日志记录</string>
     <string name="loadImageError">加载图片错误,请联系开发者反馈出现该情况的场景。</string>
@@ -374,8 +300,10 @@
     <string name="volume_key_up_quick_close_camera">音量+键快速关闭从快捷方式打开的相机</string>
     <string name="turn_off_privacy_camera_quickly">快速关闭相机</string>
     <string name="camera">相机</string>
+
     <string name="use_privacy_album_tips">请勿随意卸载当前应用，隐私空间的内容将随应用卸载而删除。</string>
     <string name="tips">友情提示</string>
+
     <string name="please_thrid_app">请选择应用</string>
     <string name="welcome">欢迎</string>
     <string name="agreement">使用协议</string>
@@ -388,9 +316,8 @@
     <string name="system_default_selector">系统默认选择器</string>
     <string name="set_default_app">设置默认应用</string>
     <string name="default_app">默认应用</string>
-    <string name="clear_default_app">清除默认应用</string>
-    <string name="default_app_cleared">默认应用已清理</string>
     <string name="camera_settings">拍摄参数</string>
+
     <string name="back_up">备份</string>
     <string name="back_up_settings">备份设置</string>
     <string name="back_up_progress">备份进度</string>
@@ -407,23 +334,19 @@
     <string name="flash">闪光灯</string>
     <string name="automatic">自动</string>
     <string name="manual">手动</string>
-    <string name="disable_qr_code_file_sharing">关闭二维码文件分享</string>
-    <string name="enable_qr_code_file_sharing">打开二维码分享</string>
-    <string name="qr_code_expires_soon">二维码3分钟后过期，请尽快分享！</string>
-    <string name="wifi_not_connected">未连接WIFI，无法使用该功能</string>
+
+
     <string name="capture_time">拍摄时间</string>
     <string name="delete_time">删除时间</string>
     <string name="original_path">原始路径</string>
     <string name="file_not_found">文件不存在，无法查看</string>
     <string name="browse_time">浏览时间</string>
-    <string name="add_column">增加一列</string>
-    <string name="reduce_column">较少一列</string>
     <string name="select_column_count">选择列数</string>
     <string name="operation_not_supported">该操作不支持</string>
     <string name="pin_sort">固定当前排序</string>
     <string name="depth_infinity_support">支持infinity</string>
     <string name="net_connect_error">网络连接错误</string>
-    <string name="download_error">Download error</string>
+    <string name="download_error">下载失败</string>
     <string name="clear_all_data">清理所有传输数据</string>
     <string name="clear_all_data_finished">传输数据已被清理！</string>
     <string name="enable_play_background">允许后台播放视频</string>
@@ -446,5 +369,18 @@
     <string name="default_camera_not_found">找不到系统默认相机</string>
     <string name="open_failed">打开失败</string>
     <string name="open_in_browser">在浏览器中打开？</string>
+
+    <string name="show_on_cloud_sign">照片显示备份标记</string>
+    <string name="renewal_file">延期删除</string>
+    <string name="select_columns">选择列数</string>
+    <string name="change_filter_file_type">更改过滤文件类型</string>
+
+    <string-array name="query_range_array">
+        <item>照片</item>
+        <item>视频</item>
+        <item>相册</item>
+        <item>标签</item>
+        <item>地点</item>
+    </string-array>
 </resources>
 
