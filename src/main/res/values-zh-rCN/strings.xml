@@ -66,6 +66,7 @@
     <string name="move">移动</string>
     <string name="detail">详情</string>
     <string name="pin_to_the_top">固定到顶部</string>
+    <string name="unpin">取消置顶</string>
     <string name="set_cover">设置封面</string>
     <string name="move_to_private_space">移动到隐私空间</string>
     <string name="enter_selection_mode">进入多选模式</string>
@@ -382,5 +383,6 @@
         <item>标签</item>
         <item>地点</item>
     </string-array>
+    <string name="device_network_not_found">当前设备未开启网络</string>
 </resources>
 

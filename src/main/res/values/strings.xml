@@ -67,6 +67,7 @@
     <string name="move">Move</string>
     <string name="detail">Details</string>
     <string name="pin_to_the_top">Pin to the top</string>
+    <string name="unpin">Unpin</string>
     <string name="set_cover">Set cover</string>
     <string name="move_to_private_space">Move to private Album</string>
     <string name="enter_selection_mode">Enter selection mode</string>
@@ -447,4 +448,5 @@
     <string name="renewal_file">Postponed deletion</string>
     <string name="select_columns">Select number of columns</string>
     <string name="change_filter_file_type">Change filter file type</string>
+    <string name="device_network_not_found">The current network is disabled. Please enable it.</string>
 </resources>
