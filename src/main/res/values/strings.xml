@@ -433,10 +433,12 @@
         <item>Share</item>
         <item>Save to public album</item>
         <item>Save to privacy album</item>
+        <item>Open with</item>
     </string-array>
     <string-array name="file_help_long_press_file_op">
         <item>Share</item>
         <item>Save Download</item>
+        <item>Open with</item>
     </string-array>
     <string name="app_not_found">App not found</string>
     <string name="default_camera_not_found">Default Camera not found</string>
