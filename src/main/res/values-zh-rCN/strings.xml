@@ -359,14 +359,14 @@
     </string-array>
     <string-array name="file_help_long_press_media_op">
         <item>分享</item>
+        <item>其他应用打开</item>
         <item>保存到相册</item>
         <item>保存到隐私空间</item>
-        <item>其他应用打开</item>
     </string-array>
     <string-array name="file_help_long_press_file_op">
         <item>分享</item>
-        <item>保存到Download目录</item>
         <item>其他应用打开</item>
+        <item>保存到Download目录</item>
     </string-array>
     <string name="app_not_found">应用找不到</string>
     <string name="default_camera_not_found">找不到系统默认相机</string>
