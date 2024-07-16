@@ -138,6 +138,7 @@
     <string name="yyyy_year_day_hour_minture">MMM d, yyyy HH:mm</string>
     <string name="photoGroup">Photo grouping</string>
     <string name="restore_file">Restore file</string>
+    <string name="confirm_restore_file">Restore this file to Album?</string>
     <string name="selected">selected</string>
     <string name="uncheck">Uncheck</string>
     <string name="browser_history">Browsing history</string>

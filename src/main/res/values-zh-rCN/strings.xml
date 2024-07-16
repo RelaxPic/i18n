@@ -119,6 +119,7 @@
     <string name="yyyy_year_day_hour_minture">yyyy年M月d日H时m分</string>
     <string name="photoGroup">照片分组</string>
     <string name="restore_file">恢复文件</string>
+    <string name="confirm_restore_file">是否恢复该文件？</string>
     <string name="uncheck">取消选中</string>
     <string name="browser_history">浏览记录</string>
     <string name="select_all">全选</string>
