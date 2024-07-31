@@ -273,7 +273,7 @@
     <string-array name="private_album_operation_array">
         <item>@string/delete</item>
         <item>@string/rename</item>
-        <item>@string/move_to_private_space</item>
+        <item>@string/remove_from_privacy_album</item>
     </string-array>
     <string name="move_2_album">Moving to a specific album</string>
     <string name="create_your_privacy_album">Create your Privacy Album</string>
