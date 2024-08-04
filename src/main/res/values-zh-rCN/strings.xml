@@ -391,5 +391,6 @@
     <string name="device_network_not_found">当前设备未开启网络</string>
     <string name="save_files_failed">保存文件失败</string>
     <string name="media_source">媒体来源</string>
+    <string name="ignore_this_update">忽略本次升级</string>
 </resources>
 

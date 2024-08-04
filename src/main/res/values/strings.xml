@@ -455,4 +455,5 @@
     <string name="device_network_not_found">The current network is disabled. Please enable it.</string>
     <string name="save_files_failed">Save files failed</string>
     <string name="media_source">Media Source</string>
+    <string name="ignore_this_update">Ignore this update</string>
 </resources>
