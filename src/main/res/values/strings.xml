@@ -235,7 +235,6 @@
     <string name="input_album_name">Please enter an album name</string>
     <string name="no_longer_remind">"Don't show again"</string>
     <string name="delete_forever">Delete forever</string>
-    <string name="show_qrcode">Show QR code</string>
     <string name="share">Share</string>
     <string name="share_to">Share to</string>
     <string name="name">Name</string>

@@ -213,7 +213,6 @@
     <string name="input_album_name">请输入相册名字</string>
     <string name="no_longer_remind">不再提醒</string>
     <string name="delete_forever">永久删除</string>
-    <string name="show_qrcode">显示二维码</string>
     <string name="share">分享</string>
     <string name="share_to">分享到</string>
     <string name="name">名称</string>
