@@ -48,7 +48,6 @@
     <string name="cancel">取消</string>
     <string name="search">搜索</string>
     <string name="video">视频</string>
-    <string name="image">图片</string>
     <string name="recent">最近</string>
     <string name="grid_count">列数</string>
     <string name="album_sort">相册排序</string>
@@ -100,7 +99,6 @@
     <string name="this_month">本月</string>
     <string name="day">日</string>
     <string name="hour">小时</string>
-    <string name="hours">小时</string>
     <string name="photo_expiry_time_day_hours">%1$d天%2$d小时</string>
     <string name="minute">分钟</string>
     <string name="today">今天</string>
@@ -128,7 +126,6 @@
     <string name="page_mode">浏览翻页模式</string>
     <string name="default_playback_speed">默认播放速度</string>
     <string name="media_attr">媒体属性</string>
-    <string name="media_info">媒体信息</string>
     <string name="browsing_settings">浏览设置</string>
     <string name="custom">自定义设置</string>
     <string name="settings">设置</string>
@@ -157,12 +154,10 @@
     <string name="add_a_column">增加一列</string>
     <string name="reduce_a_column">减少一列</string>
     <string name="upload_list">上传列表</string>
-    <string name="thrid_account">第三方账号</string>
     <string name="add_thrid_account">添加账号</string>
     <string name="input_webdav_server_addr">WebDAV 服务器地址</string>
     <string name="username">用户名</string>
     <string name="password">密码</string>
-    <string name="login">登录</string>
     <string name="save">保存</string>
     <string name="login_webdav">登录WebDAV</string>
     <string name="under_development">正在开发中</string>
@@ -186,8 +181,6 @@
     <string name="night_theme">夜间模式</string>
     <string name="follow_system">跟随系统</string>
     <string name="theme_mode">主题模式</string>
-    <string name="grid">网格布局</string>
-    <string name="list">列表</string>
     <string name="favarite">收藏</string>
     <string name="on">开启</string>
     <string name="off">关闭</string>
@@ -209,15 +202,12 @@
     <string name="delete">删除</string>
     <string name="confirm_delte">确认删除？</string>
     <string name="confirm">确认</string>
-    <string name="refuse">拒绝</string>
     <string name="input_album_name">请输入相册名字</string>
     <string name="no_longer_remind">不再提醒</string>
     <string name="delete_forever">永久删除</string>
     <string name="share">分享</string>
     <string name="share_to">分享到</string>
     <string name="name">名称</string>
-    <string name="path">路径</string>
-    <string name="date">日期</string>
     <string name="size">大小</string>
     <string name="addTime">添加时间</string>
     <string name="takenTime">拍摄时间</string>
@@ -275,7 +265,6 @@
     <string name="app_feedback">慢图浏览问题反馈</string>
     <string name="fallback_nickname">社区昵称</string>
     <string name="fallback_avatar">社区头像</string>
-    <string name="input_nickname">请填写社区昵称</string>
     <string name="go_forward">前进</string>
     <string name="go_back">后退</string>
     <string name="file_too_much">文件过多，无法分享</string>
@@ -313,11 +302,9 @@
     <string name="agree_and_continue">同意并继续</string>
     <string name="disagree">不同意</string>
     <string name="media_not_supported">媒体不受支持</string>
-    <string name="choose">选择</string>
     <string name="clear_default_app">清理默认应用</string>
     <string name="system_default_selector">系统默认选择器</string>
     <string name="set_default_app">设置默认应用</string>
-    <string name="default_app">默认应用</string>
     <string name="camera_settings">拍摄参数</string>
 
     <string name="back_up">备份</string>
@@ -341,9 +328,7 @@
     <string name="capture_time">拍摄时间</string>
     <string name="delete_time">删除时间</string>
     <string name="original_path">原始路径</string>
-    <string name="file_not_found">文件不存在，无法查看</string>
     <string name="browse_time">浏览时间</string>
-    <string name="select_column_count">选择列数</string>
     <string name="operation_not_supported">该操作不支持</string>
     <string name="pin_sort">固定当前排序</string>
     <string name="depth_infinity_support">支持infinity</string>
@@ -380,13 +365,6 @@
     <string name="select_columns">选择列数</string>
     <string name="change_filter_file_type">更改过滤文件类型</string>
 
-    <string-array name="query_range_array">
-        <item>照片</item>
-        <item>视频</item>
-        <item>相册</item>
-        <item>标签</item>
-        <item>地点</item>
-    </string-array>
     <string name="device_network_not_found">当前设备未开启网络</string>
     <string name="save_files_failed">保存文件失败</string>
     <string name="media_source">媒体来源</string>

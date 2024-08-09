@@ -49,7 +49,6 @@
     <string name="cancel">Cancel</string>
     <string name="search">Search</string>
     <string name="video">Videos</string>
-    <string name="image">Images</string>
     <string name="recent">Recent</string>
     <string name="grid_count">Columns</string>
     <string name="album_sort">Album Sort Order</string>
@@ -119,7 +118,6 @@
     <string name="this_month">This month</string>
     <string name="day">Day</string>
     <string name="hour">Hour</string>
-    <string name="hours">hours</string>
     <string name="photo_expiry_time_day_hours">%1$d days,%2$d hours</string>
     <string name="minute">Minture</string>
     <string name="today">Today</string>
@@ -147,7 +145,6 @@
     <string name="page_mode">Browsering paging mode</string>
     <string name="default_playback_speed">Default play speed</string>
     <string name="media_attr">Media item properties</string>
-    <string name="media_info">Media info</string>
     <string name="browsing_settings">Browsing Settings</string>
     <string name="custom">Custom Setup</string>
     <string name="settings">Settings</string>
@@ -175,12 +172,10 @@
     <string name="add_a_column">Add a column</string>
     <string name="reduce_a_column">Reduce a column</string>
     <string name="upload_list">Upload list</string>
-    <string name="thrid_account">Thrid Account</string>
     <string name="add_thrid_account">Add account</string>
     <string name="input_webdav_server_addr">WebDAV server address</string>
     <string name="username">Username</string>
     <string name="password">Password</string>
-    <string name="login">Login</string>
     <string name="save">Save</string>
     <string name="login_webdav">Login to WebDAV</string>
     <string name="under_development">In development</string>
@@ -203,8 +198,6 @@
     <string name="night_theme">Dark mode</string>
     <string name="follow_system">Follow system</string>
     <string name="theme_mode">Theme Mode</string>
-    <string name="grid">Grid</string>
-    <string name="list">List</string>
     <string name="favarite">Favaite</string>
     <string name="on">On</string>
     <string name="off">Off</string>
@@ -231,15 +224,12 @@
     <string name="delete">Delete</string>
     <string name="confirm_delte">Delete?</string>
     <string name="confirm">Confirm</string>
-    <string name="refuse">Decline</string>
     <string name="input_album_name">Please enter an album name</string>
     <string name="no_longer_remind">"Don't show again"</string>
     <string name="delete_forever">Delete forever</string>
     <string name="share">Share</string>
     <string name="share_to">Share to</string>
     <string name="name">Name</string>
-    <string name="path">Paths</string>
-    <string name="date">Date</string>
     <string name="size">Size</string>
     <string name="addTime">Added time</string>
     <string name="takenTime">Taken on</string>
@@ -306,7 +296,6 @@
     <string name="app_feedback">App feedback</string>
     <string name="fallback_nickname">Fallback nickname</string>
     <string name="fallback_avatar">Avatar</string>
-    <string name="input_nickname">Please input your nickname.</string>
     <string name="go_forward">Forward</string>
     <string name="go_back">Back</string>
     <string name="file_too_much">Files too much, can\'t share</string>
@@ -342,11 +331,9 @@
     <string name="agree_and_continue">Agree and continue</string>
     <string name="disagree">Disagree</string>
     <string name="media_not_supported">Media not supported</string>
-    <string name="choose">Choose</string>
     <string name="system_default_selector">System default App</string>
     <string name="set_default_app">Default application settings</string>
     <string name="clear_default_app">Clear default App</string>
-    <string name="default_app">Default APP </string>
     <string name="camera_settings">Shooting parameters:</string>
 
     <string name="back_up">Back-up</string>
@@ -370,9 +357,7 @@
     <string name="capture_time">Capture Time</string>
     <string name="delete_time">Delete Time</string>
     <string name="original_path">Original Path</string>
-    <string name="file_not_found">File not found, unable to view</string>
     <string name="browse_time">Browsing Time</string>
-    <string name="select_column_count">Select Column Count</string>
     <string name="operation_not_supported">Operation not supported</string>
     <string name="pin_sort">Pin current sort</string>
     <string name="depth_infinity_support">Depth infinity support</string>
