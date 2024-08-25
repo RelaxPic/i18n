@@ -361,6 +361,7 @@
     <string name="operation_not_supported">Operation not supported</string>
     <string name="pin_sort">Pin current sort</string>
     <string name="depth_infinity_support">Depth infinity support</string>
+    <string name="igore_ssl_cert_error">Ignore SSL cert error</string>
     <string name="net_connect_error">Net connect error</string>
     <string name="download_error">Download error</string>
     <string name="download_timeout">Download timeout! Please check the network</string>

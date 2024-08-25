@@ -332,6 +332,7 @@
     <string name="operation_not_supported">该操作不支持</string>
     <string name="pin_sort">固定当前排序</string>
     <string name="depth_infinity_support">支持infinity</string>
+    <string name="igore_ssl_cert_error">忽略SSL证书错误</string>
     <string name="net_connect_error">网络连接错误</string>
     <string name="download_error">下载失败</string>
     <string name="download_timeout">下载超时，请检查网络。</string>
