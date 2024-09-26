@@ -1,5 +1,5 @@
 <resources>
-    <string name="common_permission_description">权限说明</string>
+    <string name="common_permission_description_title">权限说明</string>
     <string name="common_permission_message">使用此功能需要先授予%s</string>
     <string name="common_permission_granted">授予</string>
     <string name="common_permission_denied">取消</string>
@@ -43,6 +43,10 @@
     <string name="common_permission_ignore_battery_optimize">忽略电池优化权限</string>
     <string name="common_permission_picture_in_picture">画中画权限</string>
     <string name="common_permission_vpn">\tVPN\t权限</string>
+    <string name="common_permission_get_installed_apps">get info about installed apps permission</string>
+    <string name="common_permission_unknown">权限</string>
+    <string name="common_permission_colon">: </string>
+    <string name="common_permission_background_default_option_label">始终允许</string>
 
     <string name="app_name">慢图浏览</string>
     <string name="cancel">取消</string>
@@ -80,6 +84,7 @@
 
     <string name="version_name">版本号</string>
     <string name="private_space">隐私空间</string>
+    <string name="private_space_backup">隐私空间备份</string>
     <string name="file_path">路径</string>
     <string name="check_new_version">检查新版本</string>
     <string name="media_scan">媒体扫描</string>
@@ -370,5 +375,33 @@
     <string name="save_files_failed">保存文件失败</string>
     <string name="media_source">媒体来源</string>
     <string name="ignore_this_update">忽略本次升级</string>
+    <string name="test_connection">测试连接</string>
+
+
+    <string name="please_check_if_the_address_is_correct">请检查地址是否正确</string>
+    <string name="please_check_if_the_user_and_pass_is_correct">请检查用户名和密码是否正确</string>
+    <string name="the_connection_timed_out">连接超时</string>
+    <string name="webdav_server_error">WebDAV 无法连接</string>
+    <string name="please_check_network_and_webdav_server_dns_config">请检查设备网络和当前WebDAV服务DNS配置</string>
+    <string name="response_code">响应码</string>
+    <string name="cert_error">SSL证书错误</string>
+    <string name="webdav_does_not_have_permission_to_create_folder" >WebDAV没有创建权限文件夹</string>
+    <string name="webdav_does_not_have_permission_to_delete_file" >WebDAV没有权限删除文件</string>
+    <string name="webdav_does_not_have_permission_to_modify_file" >WebDAV没有权限修改文件</string>
+    <string name="select_album_backup_folder" >公共相册备份目录</string>
+    <string name="select_privacy_album_backup_foler" >隐私空间备份目录</string>
+    <string name="webdav_not_support_infinity" >当前WebDAV不支持infinity</string>
+    <string name="webdav_support_infinity" >当前WebDAV支持infinity</string>
+    <string name="request_forbid" >WebDav 请求被禁止</string>
+    <string name="only_wifi_sync">仅在连接到Wifi时备份</string>
+    <string name="auto_backup" >自动备份</string>
+    <string name="album_backup_settings">备份相册设置</string>
+    <string name="privacy_album_backup_settings">备份隐私空间设置</string>
+    <string name="view_photo" >浏览照片</string>
+    <string name="photo_detail">照片详情</string>
+    <string name="cannot_move_file" >没有移动文件的权限</string>
+    <string name="file_helper_service_is_started" >文件传输服务已经开启</string>
+    <string name="file_helper_service_is_restarted" >文件传输服务已经重启</string>
+    <string name="file_helper_port_occupied">端口:%d 已被占用 </string>
 </resources>
 

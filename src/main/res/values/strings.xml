@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="common_permission_description">Permission description</string>
+    <string name="common_permission_description_title">Permission description</string>
     <string name="common_permission_message">%s needs to be granted to use this feature</string>
     <string name="common_permission_granted">Granted</string>
     <string name="common_permission_denied">Denied</string>
@@ -44,6 +44,10 @@
     <string name="common_permission_ignore_battery_optimize">ignore battery optimize permission</string>
     <string name="common_permission_picture_in_picture">picture-in-picture permission</string>
     <string name="common_permission_vpn">\tVPN\tpermission</string>
+    <string name="common_permission_get_installed_apps">get info about installed apps permission</string>
+    <string name="common_permission_unknown">permission</string>
+    <string name="common_permission_colon">：</string>
+    <string name="common_permission_background_default_option_label">Allow all the time</string>
 
     <string name="app_name">RelaxPic</string>
     <string name="cancel">Cancel</string>
@@ -99,6 +103,7 @@
 
     <string name="version_name">Version name</string>
     <string name="private_space">Privacy Album</string>
+    <string name="private_space_backup">Privacy Album Backup</string>
     <string name="file_path">File Path</string>
     <string name="check_new_version">Check New Version</string>
     <string name="media_scan">Media Scan</string>
@@ -441,4 +446,32 @@
     <string name="save_files_failed">Save files failed</string>
     <string name="media_source">Media Source</string>
     <string name="ignore_this_update">Ignore this update</string>
+    <string name="test_connection">Test Connection</string>
+
+    <string name="please_check_if_the_address_is_correct">Please check if the address is correct</string>
+    <string name="please_check_if_the_user_and_pass_is_correct">Please check if the username and password is correct</string>
+    <string name="the_connection_timed_out">The connection timed out</string>
+    <string name="webdav_server_error">WebDAV server error</string>
+    <string name="please_check_network_and_webdav_server_dns_config">Please check the device network and WebDAV service DNS configuration</string>
+    <string name="response_code">Response Code</string>
+    <string name="cert_error">SSL Cert error</string>
+    <string name="webdav_does_not_have_permission_to_create_folder" >WebDAV does not have permission to create folder </string>
+    <string name="webdav_does_not_have_permission_to_delete_file" >WebDAV does not have permission to delete file</string>>
+    <string name="webdav_does_not_have_permission_to_modify_file" >WebDAV does not have permission to modify file</string>
+    <string name="select_album_backup_folder" >Select album back folder</string>
+    <string name="select_privacy_album_backup_foler" >Select privacy album back folder</string>
+    <string name="webdav_not_support_infinity" > WebDAV not support infinity</string>
+    <string name="webdav_support_infinity" >WebDAV support infinity</string>
+    <string name="request_forbid" >WebDAV request forbid</string>
+    <string name="only_wifi_sync" >Only backup when connected to Wifi</string>
+    <string name="auto_backup" >Auto backup</string>
+    <string name="album_backup_settings">Album backup settings</string>
+    <string name="privacy_album_backup_settings">Privacy album backup settings</string>
+    <string name="view_photo" >View photo</string>
+    <string name="photo_detail">Photo detail</string>
+    <string name="cannot_move_file" >Cannot move files</string>
+    <string name="file_helper_service_is_started">File helper service is started</string>
+    <string name="file_helper_service_is_restarted" >File helper service is restarted</string>
+    <string name="file_helper_port_occupied">Port:%d  occupied </string>
+
 </resources>
