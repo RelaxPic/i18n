@@ -476,4 +476,5 @@
     <string name="at_least_1_character">At least 1 characters</string>
     <string name="must_start_with_https_or_http">Must start with https:// or http://</string>
     <string name="enable_sync_backup">Auto Backup</string>
+    <string name="download_completed">Download completed </string>
 </resources>

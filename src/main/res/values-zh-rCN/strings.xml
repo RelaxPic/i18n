@@ -406,6 +406,6 @@
     <string name="at_least_1_character">最少一个字符</string>
     <string name="must_start_with_https_or_http">地址必须以https://或者http://开头</string>
     <string name="enable_sync_backup">开启自动备份</string>
-
+    <string name="download_completed" >下载完成</string>
 </resources>
 
