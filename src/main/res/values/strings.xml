@@ -197,6 +197,15 @@
     <string name="nothing">No items</string>
     <string name="count_photo">Photos</string>
     <string name="count_video">Videos</string>
+
+    <plurals name="photo_count">
+        <item quantity="one">%d photo</item>
+        <item quantity="other">%d photos</item>
+    </plurals>
+    <plurals name="video_count">
+        <item quantity="one">%d video</item>
+        <item quantity="other">%d videos</item>
+    </plurals>
     <string name="count_album">Albums</string>
     <string name="file_type">File type</string>
     <string name="day_theme">Light mode</string>
@@ -219,6 +228,7 @@
     <string name="about">About</string>
     <string name="tools">Toolbox (experimental)</string>
     <string name="logging_in">Logging in...</string>
+    <string name="testing_keep_running">Testing… \n Do not turn off the screen, keep the application running in the foreground</string>
     <string name="login_failed">Login failed</string>
     <string name="send_file_manager_to_desktop">Send system file manager to desktop</string>
     <string name="send_privacy_camera_to_desktop">Send privacy camera to desktop</string>
@@ -417,7 +427,7 @@
         <item>8</item>
     </string-array>
     <string-array name="net_pan_array">
-        <item>WebDav</item>
+        <item>WebDAV</item>
     </string-array>
 
 
@@ -478,4 +488,6 @@
     <string name="enable_sync_backup">Auto Backup</string>
     <string name="download_completed">Download completed </string>
     <string name="directory_cannot_be_the_same">The backup directory for public photo albums and privacy space cannot be the same</string>
+    <string name="synced">Synced</string>
+    <string name="webdav_server_addr_not_exist">WebDAV server addr not exist</string>
 </resources>

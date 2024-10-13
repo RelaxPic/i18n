@@ -178,6 +178,14 @@
     <string name="scaning">正在扫描中</string>
     <string name="nothing">没有任何内容</string>
     <string name="count_photo">张照片</string>
+    <plurals name="photo_count">
+        <item quantity="one">%d张照片</item>
+        <item quantity="other">%d张照片</item>
+    </plurals>
+    <plurals name="video_count">
+        <item quantity="one">%d各视频</item>
+        <item quantity="other">%d个视频</item>
+    </plurals>
     <string name="count_video">个视频</string>
     <string name="count_album">个相册</string>
     <string name="file_type">文件类型</string>
@@ -197,6 +205,7 @@
     <string name="about">关于</string>
     <string name="tools">工具箱(实验性)</string>
     <string name="logging_in">正在登录中...</string>
+    <string name="testing_keep_running">测试中... \n 不要关闭屏幕，保持应用在前台运行</string>
     <string name="login_failed">登录失败</string>
     <string name="send_file_manager_to_desktop">将系统文件管理器发送到桌面</string>
     <string name="send_privacy_camera_to_desktop">将相机发送到桌面</string>
@@ -408,5 +417,7 @@
     <string name="enable_sync_backup">开启自动备份</string>
     <string name="download_completed" >下载完成</string>
     <string name="directory_cannot_be_the_same">公共相册备份目录和隐私空间备份目录不能相同</string>
+    <string name="synced" >同步成功</string>
+    <string name="webdav_server_addr_not_exist">WebDAV 服务地址不存在</string>
 </resources>
 
