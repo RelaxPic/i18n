@@ -87,7 +87,10 @@
     <string name="private_space_backup">隐私空间备份</string>
     <string name="file_path">路径</string>
     <string name="check_new_version">检查新版本</string>
-    <string name="media_scan">媒体扫描</string>
+    <string name="refresh_media">刷新媒体库</string>
+    <string name="clean_files">清理文件</string>
+    <string name="clean_0_size_files">Clean 0 size files</string>
+    <string name="refresh_media_and_add_some_files">刷新媒体库，将一些文件添加到媒体库中。</string>
     <string name="other">其它</string>
     <string name="update_history">更新历史</string>
     <string name="recycle_bin">回收站</string>
