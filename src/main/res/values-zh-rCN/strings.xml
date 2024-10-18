@@ -89,8 +89,8 @@
     <string name="check_new_version">检查新版本</string>
     <string name="refresh_media">刷新媒体库</string>
     <string name="clean_files">清理文件</string>
-    <string name="clean_0_size_files">Clean 0 size files</string>
-    <string name="refresh_media_and_add_some_files">刷新媒体库，将一些文件添加到媒体库中。</string>
+    <string name="clean_0_size_files">清理文件体积为0的文件</string>
+    <string name="refresh_media_and_add_some_files">刷新媒体库，找回没有显示在相册中的图片</string>
     <string name="other">其它</string>
     <string name="update_history">更新历史</string>
     <string name="recycle_bin">回收站</string>
@@ -209,6 +209,7 @@
     <string name="tools">工具箱(实验性)</string>
     <string name="logging_in">正在登录中...</string>
     <string name="testing_keep_running">测试中... \n 不要关闭屏幕，保持应用在前台运行</string>
+    <string name="scanning_keep_running">扫描中... \n 不要关闭屏幕，保持应用在前台运行</string>
     <string name="login_failed">登录失败</string>
     <string name="send_file_manager_to_desktop">将系统文件管理器发送到桌面</string>
     <string name="send_privacy_camera_to_desktop">将相机发送到桌面</string>
@@ -267,7 +268,6 @@
     <string name="recycle_bin_and_history_images_safe_check">回收站ǀ最近查看的图片安全校验</string>
     <string name="safe_check_desc">打开后安全校验后，进入回收站或最近查看的图片，会要求输入隐私空间PIN码才可进入</string>
     <string name="enter_the_number_of_days_to_add_the_extension">输入要添加延期的天数</string>
-    <string name="wallpaper_mode">将手机壁纸应用于应用背景</string>
     <string name="wallpapger_mode_desc">应用在夜间模式主题时，使用系统墙纸作为应用背景。</string>
     <string name="search_hint">请输入照片名称,相册关键字</string>
     <string name="record_latest_images">开启后，记录最近浏览的图片</string>
@@ -422,5 +422,11 @@
     <string name="directory_cannot_be_the_same">公共相册备份目录和隐私空间备份目录不能相同</string>
     <string name="synced" >同步成功</string>
     <string name="webdav_server_addr_not_exist">WebDAV 服务地址不存在</string>
+    <string name="app_wallpaper_mode">应用壁纸模式</string>
+    <string-array name="wallpaper_mode_entries">
+        <item>应用默认壁纸</item>
+        <item>手机默认壁纸</item>
+        <item>禁止使用壁纸</item>
+    </string-array>
 </resources>
 

@@ -107,7 +107,7 @@
     <string name="file_path">File Path</string>
     <string name="check_new_version">Check New Version</string>
     <string name="refresh_media">Refreshing media library</string>
-    <string name="refresh_media_and_add_some_files">Refresh the media library and add some files to it.</string>
+    <string name="refresh_media_and_add_some_files">Refresh the media library and retrieve images that are not displayed in the album..</string>
     <string name="clean_files">Clean files</string>
     <string name="clean_0_size_files">Clean 0 size files</string>
     <string name="other">Other</string>
@@ -232,6 +232,7 @@
     <string name="tools">Toolbox (experimental)</string>
     <string name="logging_in">Logging in...</string>
     <string name="testing_keep_running">Testing… \n Do not turn off the screen, keep the application running in the foreground</string>
+    <string name="scanning_keep_running">Scanning… \n Do not turn off the screen, keep the application running in the foreground</string>
     <string name="login_failed">Login failed</string>
     <string name="send_file_manager_to_desktop">Send system file manager to desktop</string>
     <string name="send_privacy_camera_to_desktop">Send privacy camera to desktop</string>
@@ -299,7 +300,6 @@
     <string name="recycle_bin_and_history_images_safe_check">PIN required to view recycle bin and latest viewed images</string>
     <string name="safe_check_desc">After opening the security check, accessing the recycle bin or recently viewed images will require a private PIN code to access it</string>
     <string name="enter_the_number_of_days_to_add_the_extension">Enter the number of days to add the extension</string>
-    <string name="wallpaper_mode">Apply mobile wallpaper to the application background</string>
     <string name="wallpapger_mode_desc">The app uses the system wallpaper as the app background when the app is in the night mode theme.</string>
     <string name="search_hint">photo name,album name …</string>
     <string name="record_latest_images">Record recently viewed images when turned on</string>
@@ -493,4 +493,15 @@
     <string name="directory_cannot_be_the_same">The backup directory for public photo albums and privacy space cannot be the same</string>
     <string name="synced">Synced</string>
     <string name="webdav_server_addr_not_exist">WebDAV server addr not exist</string>
+    <string name="app_wallpaper_mode">App wallpaper mode</string>
+    <string-array name="wallpaper_mode_entries">
+        <item>App Default wallpaper</item>
+        <item>System wallpaper</item>
+        <item>Dont\'t use wallpaper</item>
+    </string-array>
+    <string-array name="wallpaper_mode_value_array">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
 </resources>
