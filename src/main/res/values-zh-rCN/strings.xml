@@ -87,10 +87,9 @@
     <string name="private_space_backup">隐私空间备份</string>
     <string name="file_path">路径</string>
     <string name="check_new_version">检查新版本</string>
-    <string name="refresh_media">刷新媒体库</string>
-    <string name="clean_files">清理文件</string>
-    <string name="clean_0_size_files">清理文件体积为0的文件</string>
-    <string name="refresh_media_and_add_some_files">刷新媒体库，找回没有显示在相册中的图片</string>
+    <string name="find_unindexed_photos">找回未显示在相册中的照片</string>
+    <string name="find_unindexed_photos_desc">找回没有显示在相册中的图片(不包括以.开头的隐藏文件)</string>
+    <string name="clear_up_empty_files">清理没有内容的文件</string>
     <string name="other">其它</string>
     <string name="update_history">更新历史</string>
     <string name="recycle_bin">回收站</string>
@@ -132,8 +131,8 @@
     <string name="invert_selection">反选</string>
     <string name="selected">已选择</string>
     <string name="page_mode">浏览翻页模式</string>
-    <string name="default_playback_speed">默认播放速度</string>
-    <string name="media_attr">媒体属性</string>
+    <string name="default_playback_speed">视频默认播放速度</string>
+    <string name="media_attr">浏览照片底部展示媒体属性</string>
     <string name="browsing_settings">浏览设置</string>
     <string name="custom">自定义设置</string>
     <string name="settings">设置</string>
@@ -243,7 +242,8 @@
     <string name="user_random_id">用户随机ID</string>
     <string name="create_new_album">创建新相册</string>
     <string name="allow_check_update">自动更新</string>
-    <string name="show_delete_dialog">显示删除提示对话框</string>
+    <string name="show_delete_dialog">显示删除提示框</string>
+    <string name="show_delete_dialog_desc">关闭提示框后，删除照片只会将照片移动到回收站.</string>
     <string name="contact_us">联系开发者</string>
     <string name="move_to_privicy_album">移动到隐私空间</string>
     <string name="language">语言</string>
@@ -268,13 +268,12 @@
     <string name="recycle_bin_and_history_images_safe_check">回收站ǀ最近查看的图片安全校验</string>
     <string name="safe_check_desc">打开后安全校验后，进入回收站或最近查看的图片，会要求输入隐私空间PIN码才可进入</string>
     <string name="enter_the_number_of_days_to_add_the_extension">输入要添加延期的天数</string>
-    <string name="wallpapger_mode_desc">应用在夜间模式主题时，使用系统墙纸作为应用背景。</string>
     <string name="search_hint">请输入照片名称,相册关键字</string>
     <string name="record_latest_images">开启后，记录最近浏览的图片</string>
     <string name="auto_hide_desc">进入照片详情页面，将自动隐藏底部和顶部组件</string>
     <string name="auto_hide">自动隐藏</string>
     <string name="force_maximum_screen_brightness">强制最大亮度</string>
-    <string name="force_maximum_screen_brightness_desc">在日出期间，查看照片时强制最大亮度。</string>
+    <string name="force_maximum_screen_brightness_desc">查看照片时强制最大亮度</string>
     <string name="find_latest_version">发现新版本</string>
     <string name="check_update_faild">检测更新失败</string>
     <string name="items">%s 项内容</string>
@@ -357,6 +356,7 @@
     <string name="clear_all_data_finished">传输数据已被清理！</string>
     <string name="enable_play_background">允许后台播放视频</string>
     <string name="volume_key_page_flipping">音量键翻页</string>
+    <string name="use_volume_key_to_view_previous_and_next_photos" >使用音量键查看上一张和下一张照片。</string>
     <string-array name="play_mode_array">
         <item>默认</item>
         <item>单曲循环</item>
@@ -428,5 +428,6 @@
         <item>手机默认壁纸</item>
         <item>禁止使用壁纸</item>
     </string-array>
+    <string name="uploading">上传中...</string>
 </resources>
 

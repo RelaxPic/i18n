@@ -106,10 +106,9 @@
     <string name="private_space_backup">Privacy Album Backup</string>
     <string name="file_path">File Path</string>
     <string name="check_new_version">Check New Version</string>
-    <string name="refresh_media">Refreshing media library</string>
-    <string name="refresh_media_and_add_some_files">Refresh the media library and retrieve images that are not displayed in the album..</string>
-    <string name="clean_files">Clean files</string>
-    <string name="clean_0_size_files">Clean 0 size files</string>
+    <string name="find_unindexed_photos">Find Unindexed Photos</string>
+    <string name="find_unindexed_photos_desc">Recover hidden images (excluding files starting with a dot)</string>
+    <string name="clear_up_empty_files">Clear up empty files</string>
     <string name="other">Other</string>
     <string name="update_history">Update history</string>
     <string name="recycle_bin">Recycle bin</string>
@@ -151,8 +150,8 @@
     <string name="select_all">Select All</string>
     <string name="invert_selection">Invert selection</string>
     <string name="page_mode">Browsering paging mode</string>
-    <string name="default_playback_speed">Default play speed</string>
-    <string name="media_attr">Media item properties</string>
+    <string name="default_playback_speed">Default video playback speed</string>
+    <string name="media_attr">Show media info at the bottom of the photo.</string>
     <string name="browsing_settings">Browsing Settings</string>
     <string name="custom">Custom Setup</string>
     <string name="settings">Settings</string>
@@ -266,7 +265,8 @@
     <string name="user_random_id">User random ID</string>
     <string name="create_new_album">Create an album</string>
     <string name="allow_check_update">Auto-update</string>
-    <string name="show_delete_dialog">Show Delete confirmation</string>
+    <string name="show_delete_dialog">Show delete confirmation dialog</string>
+    <string name="show_delete_dialog_desc">After closing the dialog, deleting the photo will only move it to the recycle bin."</string>
     <string name="contact_us">Contact Developer</string>
     <string name="move_to_privicy_album">Move to privicy  Album</string>
     <string name="language">Language</string>
@@ -300,13 +300,12 @@
     <string name="recycle_bin_and_history_images_safe_check">PIN required to view recycle bin and latest viewed images</string>
     <string name="safe_check_desc">After opening the security check, accessing the recycle bin or recently viewed images will require a private PIN code to access it</string>
     <string name="enter_the_number_of_days_to_add_the_extension">Enter the number of days to add the extension</string>
-    <string name="wallpapger_mode_desc">The app uses the system wallpaper as the app background when the app is in the night mode theme.</string>
     <string name="search_hint">photo name,album name …</string>
     <string name="record_latest_images">Record recently viewed images when turned on</string>
     <string name="auto_hide_desc">Going to the photo detail page will automatically hide the bottom and top components.</string>
     <string name="auto_hide">Auto hide</string>
     <string name="force_maximum_screen_brightness"> Force maximum screen brightness</string>
-    <string name="force_maximum_screen_brightness_desc">Forces maximum brightness when viewing photos during sunrise.</string>
+    <string name="force_maximum_screen_brightness_desc">Forces maximum brightness when viewing photos</string>
     <string name="find_latest_version">New Version Detected</string>
     <string name="check_update_faild">Check for updates fail.</string>
     <string name="items">%s items</string>
@@ -385,8 +384,9 @@
     <string name="download_timeout">Download timeout! Please check the network</string>
     <string name="clear_all_data">Clear all data</string>
     <string name="clear_all_data_finished">The transmission data has been cleaned up!</string>
-    <string name="enable_play_background">Enable play video playback</string>
+    <string name="enable_play_background">Enable background play video</string>
     <string name="volume_key_page_flipping">Volume key page flipping</string>
+    <string name="use_volume_key_to_view_previous_and_next_photos" >Use volume keys to view previous and next photos.</string>
 
     <string-array name="speed_array">
         <item>0.5X</item>
@@ -495,8 +495,8 @@
     <string name="webdav_server_addr_not_exist">WebDAV server addr not exist</string>
     <string name="app_wallpaper_mode">App wallpaper mode</string>
     <string-array name="wallpaper_mode_entries">
-        <item>App Default wallpaper</item>
-        <item>System wallpaper</item>
+        <item>App default wallpaper</item>
+        <item>Mobile system wallpaper</item>
         <item>Dont\'t use wallpaper</item>
     </string-array>
     <string-array name="wallpaper_mode_value_array">
@@ -504,4 +504,5 @@
         <item>1</item>
         <item>2</item>
     </string-array>
+    <string name="uploading">Uploading...</string>
 </resources>
