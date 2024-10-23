@@ -266,7 +266,7 @@
     <string name="remove_from_privacy_album">移出隐私空间</string>
 
     <string name="recycle_bin_and_history_images_safe_check">回收站ǀ最近查看的图片安全校验</string>
-    <string name="safe_check_desc">打开后安全校验后，进入回收站或最近查看的图片，会要求输入隐私空间PIN码才可进入</string>
+    <string name="safe_check_desc">打开安全校验后，进入回收站或最近查看的图片，会要求输入隐私空间PIN码才可进入</string>
     <string name="enter_the_number_of_days_to_add_the_extension">输入要添加延期的天数</string>
     <string name="search_hint">请输入照片名称,相册关键字</string>
     <string name="record_latest_images">开启后，记录最近浏览的图片</string>
