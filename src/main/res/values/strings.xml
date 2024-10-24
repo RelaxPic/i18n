@@ -264,7 +264,7 @@
     <string name="copy_to_clipboard">Copy to clipboard</string>
     <string name="user_random_id">User random ID</string>
     <string name="create_new_album">Create an album</string>
-    <string name="allow_check_update">Auto-update</string>
+    <string name="allow_check_update">Check for update</string>
     <string name="show_delete_dialog">Show delete confirmation dialog</string>
     <string name="show_delete_dialog_desc">After closing the dialog, deleting the photo will only move it to the recycle bin."</string>
     <string name="contact_us">Contact Developer</string>
@@ -497,7 +497,7 @@
     <string-array name="wallpaper_mode_entries">
         <item>App default wallpaper</item>
         <item>Mobile system wallpaper</item>
-        <item>Dont\'t use wallpaper</item>
+        <item>Don\'t use wallpaper</item>
     </string-array>
     <string-array name="wallpaper_mode_value_array">
         <item>0</item>

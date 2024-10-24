@@ -241,7 +241,7 @@
     <string name="copy_to_clipboard">复制到剪贴板</string>
     <string name="user_random_id">用户随机ID</string>
     <string name="create_new_album">创建新相册</string>
-    <string name="allow_check_update">自动更新</string>
+    <string name="allow_check_update">应用升级检测</string>
     <string name="show_delete_dialog">显示删除提示框</string>
     <string name="show_delete_dialog_desc">关闭提示框后，删除照片只会将照片移动到回收站.</string>
     <string name="contact_us">联系开发者</string>
