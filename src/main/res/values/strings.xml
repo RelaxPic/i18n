@@ -268,7 +268,7 @@
     <string name="allow_check_update">Check for update</string>
     <string name="show_delete_dialog">Show delete confirmation dialog</string>
     <string name="show_delete_dialog_desc">After closing the dialog, deleting the photo will only move it to the recycle bin."</string>
-    <string name="contact_us">Contact Developer</string>
+    <string name="contact_us">Contact us</string>
     <string name="move_to_privicy_album">Move to privicy  Album</string>
     <string name="language">Language</string>
     <string-array name="language">
