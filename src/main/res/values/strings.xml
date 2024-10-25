@@ -58,6 +58,7 @@
     <string name="album_sort">Album Sort Order</string>
     <string name="photo_sort">Photo Sort Order</string>
     <string name="hide_album">Hide Album</string>
+    <string name="move_2_hide_album">Move to hide album</string>
     <string name="file_filter">File Filter</string>
     <string name="back">Back</string>
     <string name="copied">Copied</string>
@@ -89,7 +90,7 @@
         <item>@string/copy</item>
         <item>@string/move</item>
         <item>@string/delete</item>
-        <item>@string/hide_album</item>
+        <item>@string/move_2_hide_album</item>
         <item>@string/detail</item>
         <item>@string/pin_to_the_top</item>
         <item>@string/set_cover</item>
