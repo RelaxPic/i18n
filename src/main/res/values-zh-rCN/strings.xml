@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="common_permission_description_title">权限说明</string>
     <string name="common_permission_message">使用此功能需要先授予%s</string>

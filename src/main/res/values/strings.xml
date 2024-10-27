@@ -63,7 +63,7 @@
     <string name="back">Back</string>
     <string name="copied">Copied</string>
     <string name="file_size">File size</string>
-    <string name="modify_time">Recently Modified</string>
+    <string name="modify_time">Recently modified</string>
     <string name="input_shortcut_name">Please enter a shortcut name !</string>
     <string name="input_file_name">Please enter a file name !</string>
     <string name="rename">Rename</string>
