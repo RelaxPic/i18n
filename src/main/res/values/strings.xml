@@ -288,7 +288,7 @@
     <string name="move_2_album">Moving to a specific album</string>
     <string name="create_your_privacy_album">Create your Privacy Album</string>
     <string name="create_pin">Create PIN</string>
-    <string name="confirm_your_pin">Confirm your PIN</string>
+    <string name="re_input_your_pin">Re-enter your PIN</string>
     <string name="access_privacy_album_desc">This PIN is required to access your Privacy Album</string>
     <string name="access_recycle_bin_desc">This PIN is required to access your Recycle Bin</string>
     <string name="access_recently_image_desc">This PIN is required to access your Recently Viewed Pictures Videos</string>

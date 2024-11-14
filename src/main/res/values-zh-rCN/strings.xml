@@ -259,7 +259,7 @@
     <string name="move_2_album">移动到指定相册</string>
     <string name="create_your_privacy_album">创建您的隐私空间</string>
     <string name="create_pin">创建 PIN 码</string>
-    <string name="confirm_your_pin">确认您的 PIN 码</string>
+    <string name="re_input_your_pin">再次输入您的 PIN 码</string>
     <string name="access_privacy_album_desc">访问你的隐私空间需要此 PIN 码</string>
     <string name="access_recycle_bin_desc">访问您的回收站需要此 PIN 码</string>
     <string name="access_recently_image_desc">访问您的最近的图片需要此 PIN 码</string>
