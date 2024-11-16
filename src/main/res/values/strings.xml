@@ -158,9 +158,9 @@
     <string name="settings">Settings</string>
     <string name="privacy_camera">Privacy camera</string>
     <string name="file_transfer">File transfer</string>
-    <string name="file_transfer_service_setting">File helper settings</string>
-    <string name="open_file_transfer_via_app">Open file helper via App(loginless)</string>
-    <string name="open_file_transfer_via_browser">Open file helper via browser</string>
+    <string name="file_transfer_service_setting">File transfer settings</string>
+    <string name="open_file_transfer_via_app">Open file transfer via App(loginless)</string>
+    <string name="open_file_transfer_via_browser">Open file transfer via browser</string>
     <string name="server_port">Server port</string>
     <string-array name="page_mode_array">
         <item>Vertical Page Flip Mode (recommended)</item>

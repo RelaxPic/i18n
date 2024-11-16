@@ -175,6 +175,7 @@
     <string name="input_password">请输入密码</string>
     <string name="account_exist">账户已存在</string>
     <string name="copy_link">复制链接</string>
+    <string name="refresh">刷新</string>
     <string name="file_name">文件名称</string>
     <string name="no_updated">无更新</string>
     <string name="scanning_done">扫描完成</string>
