@@ -285,7 +285,7 @@
     <string name="check_update_faild">检测更新失败</string>
     <string name="items">%s 项内容</string>
     <string name="update_now">立刻更新</string>
-    <string name="app_feedback">慢图浏览问题反馈</string>
+    <string name="app_feedback">应用问题反馈</string>
     <string name="fallback_nickname">社区昵称</string>
     <string name="fallback_avatar">社区头像</string>
     <string name="go_forward">前进</string>
