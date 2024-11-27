@@ -1,54 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="common_permission_description_title">Permission description</string>
-    <string name="common_permission_message">%s needs to be granted to use this feature</string>
-    <string name="common_permission_granted">Granted</string>
-    <string name="common_permission_denied">Denied</string>
-    <string name="common_permission_alert">Authorization reminder</string>
-    <string name="common_permission_fail_hint">Authorization failed, please grant permission correctly</string>
-    <string name="common_permission_fail_assign_hint">Authorization failed, please grant %s correctly</string>
-    <string name="common_permission_manual_fail_hint">Failed to obtain permission, please grant permission manually</string>
-    <string name="common_permission_manual_assign_fail_hint">Failed to obtain permission, please grant %s manually</string>
-    <string name="common_permission_background_location_fail_hint">Failed to obtain background location permission,\nPlease select "Allow all the time"</string>
-    <string name="common_permission_background_sensors_fail_hint">Failed to obtain background sensor permission.\nPlease select "Allow all the time"</string>
-    <string name="common_permission_media_location_hint_fail">Failed to get media location permission\nPlease clear app data and try again</string>
-    <string name="common_permission_goto_setting_page">Go to authorization</string>
-    <string name="common_permission_calendar">calendar permission</string>
-    <string name="common_permission_camera">camera permission</string>
-    <string name="common_permission_contacts">contacts permission</string>
-    <string name="common_permission_location">location permission</string>
-    <string name="common_permission_location_background">background location permission</string>
-    <string name="common_permission_nearby_devices">nearby devices permission</string>
-    <string name="common_permission_microphone">microphone permission</string>
-    <string name="common_permission_phone">phone permission</string>
-    <string name="common_permission_call_logs">call logs permission</string>
-    <string name="common_permission_body_sensors">body sensors permission</string>
-    <string name="common_permission_body_sensors_background">background body sensors permission</string>
-    <string name="common_permission_activity_recognition_api29">physical activity permission</string>
-    <string name="common_permission_activity_recognition_api30">physical activity permission</string>
-    <string name="common_permission_access_media_location">read media file location permission</string>
-    <string name="common_permission_sms">sms permission</string>
-    <string name="common_permission_storage">storage permission</string>
-    <string name="common_permission_post_notifications">send notification permission</string>
-    <string name="common_permission_image_and_video">image and video permission</string>
-    <string name="common_permission_music_and_audio">music and audio permission</string>
-    <string name="common_permission_all_file_access">all file access permission</string>
-    <string name="common_permission_install_unknown_apps">install unknown apps permission</string>
-    <string name="common_permission_display_over_other_apps">display over other apps permission</string>
-    <string name="common_permission_modify_system_settings">modify system settings permission</string>
-    <string name="common_permission_allow_notifications">allow notifications permission</string>
-    <string name="common_permission_allow_notifications_access">allow notifications access permission</string>
-    <string name="common_permission_apps_with_usage_access">apps with usage access permission</string>
-    <string name="common_permission_alarms_reminders">alarms &amp; reminders permission</string>
-    <string name="common_permission_do_not_disturb_access">do not disturb access permission</string>
-    <string name="common_permission_ignore_battery_optimize">ignore battery optimize permission</string>
-    <string name="common_permission_picture_in_picture">picture-in-picture permission</string>
-    <string name="common_permission_vpn">\tVPN\tpermission</string>
-    <string name="common_permission_get_installed_apps">get info about installed apps permission</string>
-    <string name="common_permission_unknown">permission</string>
-    <string name="common_permission_colon">：</string>
-    <string name="common_permission_background_default_option_label">Allow all the time</string>
-
     <string name="app_name">RelaxPic</string>
     <string name="cancel">Cancel</string>
     <string name="search">Search</string>
@@ -76,34 +27,8 @@
     <string name="move_to_private_space">Move to private Album</string>
     <string name="enter_selection_mode">Enter selection mode</string>
     <string name="browse_seamlessly">Browse seamlessly</string>
-
-
-    <string-array name="fileFilterArray">
-        <item>Videos</item>
-        <item>Gif Photos</item>
-        <item>RAW Photos</item>
-        <item>Other Photos</item>
-    </string-array>
-    <string-array name="albumOperaArray">
-        <item>@string/browse_seamlessly</item>
-        <item>@string/rename</item>
-        <item>@string/copy</item>
-        <item>@string/move</item>
-        <item>@string/delete</item>
-        <item>@string/move_2_hide_album</item>
-        <item>@string/detail</item>
-        <item>@string/pin_to_the_top</item>
-        <item>@string/set_cover</item>
-        <item>@string/move_to_private_space</item>
-        <item>@string/enter_selection_mode</item>
-    </string-array>
-    <string-array name="comicOperaArray">
-        <item>@string/photo_sort</item>
-        <item>@string/file_type</item>
-    </string-array>
-
     <string name="version_name">Version name</string>
-    <string name="private_space">Privacy Album</string>
+    <string name="private_space">Privacy space</string>
     <string name="private_space_backup">Privacy Album Backup</string>
     <string name="file_path">File Path</string>
     <string name="check_new_version">Check New Version</string>
@@ -162,19 +87,6 @@
     <string name="open_file_transfer_via_app">Open file transfer via App(loginless)</string>
     <string name="open_file_transfer_via_browser">Open file transfer via browser</string>
     <string name="server_port">Server port</string>
-    <string-array name="page_mode_array">
-        <item>Vertical Page Flip Mode (recommended)</item>
-        <item>Horizontal Page Flip Mode</item>
-    </string-array>
-    <string-array name="media_attr">
-        <item>Resolution</item>
-        <item>File size</item>
-        <item>Photo Aperture</item>
-        <item>Duration of exposure</item>
-        <item>ISO</item>
-        <item>Taken time</item>
-        <item>Duration of video</item>
-    </string-array>
     <string name="cloud_sync">Cloud sync</string>
     <string name="grid_columns">Columns</string>
     <string name="add_a_column">Add a column</string>
@@ -200,15 +112,6 @@
     <string name="nothing">No items</string>
     <string name="count_photo">Photos</string>
     <string name="count_video">Videos</string>
-
-    <plurals name="photo_count">
-        <item quantity="one">%d photo</item>
-        <item quantity="other">%d photos</item>
-    </plurals>
-    <plurals name="video_count">
-        <item quantity="one">%d video</item>
-        <item quantity="other">%d videos</item>
-    </plurals>
     <string name="count_album">Albums</string>
     <string name="file_type">File type</string>
     <string name="day_theme">Light mode</string>
@@ -218,19 +121,13 @@
     <string name="favarite">Favaite</string>
     <string name="on">On</string>
     <string name="off">Off</string>
-    <string-array name="how_to_add_photos_array">
-        <item>@string/move</item>
-        <item>@string/copy</item>
-    </string-array>
-
-
     <string name="localtion">Location</string>
     <string name="added_upload_list">Already added to upload list</string>
     <string name="expand_button_title">Advanced</string>
     <string name="cahce">Cache</string>
     <string name="about">About</string>
     <string name="tools">Toolbox (experimental)</string>
-    <string name="logging_in">Logging in...</string>
+    <string name="logging_in">Logging in…</string>
     <string name="testing_keep_running">Testing… \n Do not turn off the screen, keep the application running in the foreground</string>
     <string name="scanning_keep_running">Scanning… \n Do not turn off the screen, keep the application running in the foreground</string>
     <string name="login_failed">Login failed</string>
@@ -259,7 +156,7 @@
     <string name="right_ration">Rotate right</string>
     <string name="edit">Edit</string>
     <string name="set_wallpaper">Set wallpaper</string>
-    <string name="open_by_other_app">Open in...</string>
+    <string name="open_by_other_app">Open in…</string>
     <string name="send_desktop">Send to Desktop</string>
     <string name="fix_imageview">When the image cannot be loaded, click me to try it out</string>
     <string name="copy_to_clipboard">Copy to clipboard</string>
@@ -271,20 +168,9 @@
     <string name="contact_us">Contact us</string>
     <string name="move_to_privicy_album">Move to privicy  Album</string>
     <string name="language">Language</string>
-    <string-array name="language">
-        <item>@string/follow_system</item>
-        <item>中文 (简体)</item>
-        <item>English</item>
-    </string-array>
     <string name="add_to_album">Add to Album</string>
     <string name="adding_photos">Add photos</string>
     <string name="not_found">Not found</string>
-
-    <string-array name="private_album_operation_array">
-        <item>@string/delete</item>
-        <item>@string/rename</item>
-        <item>@string/remove_from_privacy_album</item>
-    </string-array>
     <string name="move_2_album">Moving to a specific album</string>
     <string name="create_your_privacy_album">Create your Privacy Album</string>
     <string name="create_pin">Create PIN</string>
@@ -328,7 +214,7 @@
     <string name="logout">Logout</string>
     <string name="copy_to_album">Copy to album</string>
     <string name="default_cover">Default Cover</string>
-    <string name="not_set">Not set</string>
+    <string name="not_set">None</string>
     <string name="filter_video_duration_unit">Filter video duration (unit/seconds)</string>
     <string name="filter_video_duration">Filter videos shorter than a specified duration</string>
     <string name="filter_file_size_unit"> Filter file size (unit/kb) </string>
@@ -354,7 +240,6 @@
     <string name="set_default_app">Default application settings</string>
     <string name="clear_default_app">Clear default App</string>
     <string name="camera_settings">Shooting parameters:</string>
-
     <string name="back_up">Back-up</string>
     <string name="back_up_settings">Back-up settings</string>
     <string name="back_up_progress">Back-up progress</string>
@@ -371,8 +256,6 @@
     <string name="flash">Flash</string>
     <string name="automatic">Automatic</string>
     <string name="manual">Manual</string>
-
-
     <string name="capture_time">Capture Time</string>
     <string name="delete_time">Delete Time</string>
     <string name="original_path">Original Path</string>
@@ -389,71 +272,10 @@
     <string name="enable_play_background">Enable background play video</string>
     <string name="volume_key_page_flipping">Volume key page flipping</string>
     <string name="use_volume_key_to_view_previous_and_next_photos" >Use volume keys to view previous and next photos.</string>
-
-    <string-array name="speed_array">
-        <item>0.5X</item>
-        <item>0.75X</item>
-        <item>1.0X</item>
-        <item>1.25X</item>
-        <item>1.5X</item>
-        <item>1.75X</item>
-        <item>2.0X</item>
-    </string-array>
-    <string-array name="play_mode_array">
-        <item>Default</item>
-        <item>Single recycle </item>
-        <item>List recycle </item>
-    </string-array>
-    <string-array name="page_mode_array_value">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
-    <string-array name="media_attr_value">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-    </string-array>
-    <string-array name="language_array_value">
-        <item>-1</item>
-        <item>0</item>
-        <item>1</item>
-    </string-array>
-    <string-array name="gridCountArray">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-    </string-array>
-    <string-array name="net_pan_array">
-        <item>WebDAV</item>
-    </string-array>
-
-
-    <string-array name="file_help_long_press_media_op">
-        <item>Share</item>
-        <item>Open with</item>
-        <item>Save to public album</item>
-        <item>Save to privacy album</item>
-    </string-array>
-    <string-array name="file_help_long_press_file_op">
-        <item>Share</item>
-        <item>Open with</item>
-        <item>Save to Download</item>
-    </string-array>
     <string name="app_not_found">App not found</string>
     <string name="default_camera_not_found">Default Camera not found</string>
     <string name="open_failed">Open failed</string>
     <string name="open_in_browser">Open in browser?</string>
-
-
     <string name="show_on_cloud_sign">Photo display backup flag</string>
     <string name="renewal_file">Postponed deletion</string>
     <string name="select_columns">Select number of columns</string>
@@ -463,7 +285,6 @@
     <string name="media_source">Media Source</string>
     <string name="ignore_this_update">Ignore this update</string>
     <string name="test_connection">Test Connection</string>
-
     <string name="please_check_if_the_address_is_correct">Please check if the address is correct</string>
     <string name="please_check_if_the_user_and_pass_is_correct">Please check if the username and password is correct</string>
     <string name="the_connection_timed_out">The connection timed out</string>
@@ -497,15 +318,13 @@
     <string name="synced">Synced</string>
     <string name="webdav_server_addr_not_exist">WebDAV server addr not exist</string>
     <string name="app_wallpaper_mode">App wallpaper mode</string>
-    <string-array name="wallpaper_mode_entries">
-        <item>App default wallpaper</item>
-        <item>Mobile system wallpaper</item>
-        <item>Don\'t use wallpaper</item>
-    </string-array>
-    <string-array name="wallpaper_mode_value_array">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
-    <string name="uploading">Uploading...</string>
+    <string name="uploading">Uploading…</string>
+    <plurals name="photo_count">
+        <item quantity="one">%d photo</item>
+        <item quantity="other">%d photos</item>
+    </plurals>
+    <plurals name="video_count">
+        <item quantity="one">%d video</item>
+        <item quantity="other">%d videos</item>
+    </plurals>
 </resources>

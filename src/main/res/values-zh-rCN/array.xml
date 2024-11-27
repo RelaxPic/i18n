@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wallpaper_mode_entries">
+        <item>应用默认壁纸</item>
+        <item>手机默认壁纸</item>
+        <item>禁止使用壁纸</item>
+    </string-array>
+    <string-array name="play_mode_array">
+        <item>默认</item>
+        <item>单曲循环</item>
+        <item>列表循环</item>
+    </string-array>
+    <string-array name="fileFilterArray">
+        <item>视频</item>
+        <item>GIF照片</item>
+        <item>RAW照片</item>
+        <item>其他照片</item>
+    </string-array>
+    <string-array name="page_mode_array">
+        <item>上下翻页(推荐)</item>
+        <item>左右翻页</item>
+    </string-array>
+    <string-array name="media_attr">
+        <item>分辨率</item>
+        <item>文件体积</item>
+        <item>照片光圈</item>
+        <item>曝光时间</item>
+        <item>ISO</item>
+        <item>拍摄时间</item>
+        <item>视频长度</item>
+    </string-array>
+    <string-array name="image_screen_orientation_mode_entries">
+        <item>图片最大填充屏幕</item>
+        <item>图片最大填充屏幕,并且屏幕方向跟随图片</item>
+        <item>默认</item>
+    </string-array>
+    <string-array name="file_help_long_press_media_op">
+        <item>分享</item>
+        <item>其他应用打开</item>
+        <item>保存到相册</item>
+        <item>保存到隐私空间</item>
+    </string-array>
+    <string-array name="file_help_long_press_file_op">
+        <item>分享</item>
+        <item>其他应用打开</item>
+        <item>保存到Download</item>
+    </string-array>
+    <string-array name="language">
+        <item>@string/follow_system</item>
+        <item>中文 (简体)</item>
+        <item>English</item>
+    </string-array>
+</resources>
