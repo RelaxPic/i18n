@@ -194,10 +194,10 @@
     <string name="auto_hide">自动隐藏</string>
     <string name="force_maximum_screen_brightness">强制最大亮度</string>
     <string name="force_maximum_screen_brightness_desc">查看照片时强制最大亮度</string>
-    <string name="find_latest_version">发现新版本</string>
+    <string name="find_latest_version">检测到最新</string>
     <string name="check_update_faild">检测更新失败</string>
     <string name="items">%s 项内容</string>
-    <string name="update_now">立刻更新</string>
+    <string name="update_now">去下载</string>
     <string name="app_feedback">应用问题反馈</string>
     <string name="fallback_nickname">社区昵称</string>
     <string name="fallback_avatar">社区头像</string>
@@ -283,7 +283,7 @@
     <string name="device_network_not_found">当前设备未开启网络</string>
     <string name="save_files_failed">保存文件失败</string>
     <string name="media_source">媒体来源</string>
-    <string name="ignore_this_update">忽略本次升级</string>
+    <string name="ignore_this_update">忽略本次版本</string>
     <string name="test_connection">测试连接</string>
     <string name="please_check_if_the_address_is_correct">请检查地址是否正确</string>
     <string name="please_check_if_the_user_and_pass_is_correct">请检查用户名和密码是否正确</string>
