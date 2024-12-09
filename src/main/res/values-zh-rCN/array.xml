@@ -29,6 +29,10 @@
         <item>拍摄时间</item>
         <item>视频长度</item>
     </string-array>
+    <string-array name="virtual_album_attr">
+        <item>最近</item>
+        <item>视频</item>
+    </string-array>
     <string-array name="image_screen_orientation_mode_entries">
         <item>图片最大填充屏幕</item>
         <item>图片最大填充屏幕,并且屏幕方向跟随图片</item>
