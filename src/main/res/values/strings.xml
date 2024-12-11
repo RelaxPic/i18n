@@ -166,7 +166,6 @@
     <string name="show_delete_dialog">Show delete confirmation dialog</string>
     <string name="show_delete_dialog_desc">After closing the dialog, deleting the photo will only move it to the recycle bin."</string>
     <string name="contact_us">Contact us</string>
-    <string name="move_to_privicy_album">Move to privicy  Album</string>
     <string name="language">Language</string>
     <string name="add_to_album">Add to Album</string>
     <string name="adding_photos">Add photos</string>
