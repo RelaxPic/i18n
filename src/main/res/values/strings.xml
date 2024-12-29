@@ -212,6 +212,7 @@
     <string name="connecting">Connecting</string>
     <string name="logout">Logout</string>
     <string name="copy_to_album">Copy to album</string>
+    <string name="save_to_album">Save to album</string>
     <string name="default_cover">Default Cover</string>
     <string name="not_set">None</string>
     <string name="filter_video_duration_unit">Filter video duration (unit/seconds)</string>
@@ -260,6 +261,7 @@
     <string name="original_path">Original Path</string>
     <string name="browse_time">Browsing Time</string>
     <string name="operation_not_supported">Operation not supported</string>
+    <string name="operation_not_supported_for_root">Operation not supported for root dic</string>
     <string name="pin_sort">Pin current sort</string>
     <string name="depth_infinity_support">Depth infinity support</string>
     <string name="igore_ssl_cert_error">Ignore SSL cert error</string>
@@ -318,6 +320,7 @@
     <string name="webdav_server_addr_not_exist">WebDAV server addr not exist</string>
     <string name="app_wallpaper_mode">App wallpaper mode</string>
     <string name="uploading">Uploading…</string>
+    <string name="test">test</string>
     <plurals name="photo_count">
         <item quantity="one">%d photo</item>
         <item quantity="other">%d photos</item>

@@ -34,6 +34,13 @@
         <item>Recently</item>
         <item>Videos</item>
     </string-array>
+
+    <string-array name="virtual_album_attr_new">
+        <item>Recently</item>
+        <item>Videos</item>
+        <item>Gifs</item>
+        <item>Raws</item>
+    </string-array>
     <string-array name="image_screen_orientation_mode_entries">
         <item>Image adaptation</item>
         <item>Screen Following image direction</item>
@@ -119,6 +126,12 @@
     <string-array name="virtual_album_attr_value">
         <item>0</item>
         <item>1</item>
+    </string-array>
+    <string-array name="virtual_album_attr_value_new">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
     </string-array>
     <string-array name="language_array_value">
         <item>-1</item>
