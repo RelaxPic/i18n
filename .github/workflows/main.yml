@@ -1,2 +1,5 @@
 - name: Weblate Locale Linter
+  # You may pin to the exact commit or the version.
+  # uses: WeblateOrg/locale_lint@b1dff2c20410570bd4b3f7bbe7b6df84420f35f8
   uses: WeblateOrg/locale_lint@v0.2.2
+          
