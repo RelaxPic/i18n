@@ -230,7 +230,7 @@
     <string name="tips">Tips</string>
     <string name="please_thrid_app">Please choose apps</string>
     <string name="welcome">Welcome</string>
-    <string name="agreement">ausag egreement</string>
+    <string name="user_agreement">user agreement</string>
     <string name="privacy_policy">privacy policy</string>
     <string name="instructions_for_use"> Before using RelaxPic browsing, you need to carefully read and agree our \n  %s and  %s. </string>
     <string name="agree_and_continue">Agree and continue</string>

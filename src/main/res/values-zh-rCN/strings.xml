@@ -230,7 +230,7 @@
     <string name="tips">友情提示</string>
     <string name="please_thrid_app">请选择应用</string>
     <string name="welcome">欢迎</string>
-    <string name="agreement">使用协议</string>
+    <string name="user_agreement">用户协议</string>
     <string name="privacy_policy">隐私政策</string>
     <string name="instructions_for_use">在使用慢图浏览之前，你需要认真阅读并同意我们\n的 %s 和 %s 。</string>
     <string name="agree_and_continue">同意并继续</string>
