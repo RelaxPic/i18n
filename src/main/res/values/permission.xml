@@ -11,7 +11,7 @@
     <string name="common_permission_manual_assign_fail_hint">Failed to obtain permission, please grant %s manually</string>
     <string name="common_permission_background_location_fail_hint">Failed to obtain background location permission,\nPlease select "Allow all the time"</string>
     <string name="common_permission_background_sensors_fail_hint">Failed to obtain background sensor permission.\nPlease select "Allow all the time"</string>
-    <string name="common_permission_media_location_hint_fail">Failed to get media location permission\nPlease clear app data and try again</string>
+    <string name="common_permission_media_location_hint_fail">Failed to get media location permission\nPlease allow media location permission in Settings</string>
     <string name="common_permission_goto_setting_page">Go to authorization</string>
     <string name="common_permission_calendar">calendar permission</string>
     <string name="common_permission_camera">camera permission</string>
