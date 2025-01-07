@@ -40,7 +40,7 @@
     <string name="recycle_bin">Recycle bin</string>
     <string name="move_to_recycle_bin">Move to recycle bin</string>
     <string name="feedback">Feedback</string>
-    <string name="user_manual">Instructions</string>
+    <string name="user_manual">User Guide</string>
     <string name="clear_cache">Clear Cache</string>
     <string name="photo">Photo</string>
     <string name="album">Album</string>
@@ -235,7 +235,7 @@
     <string name="instructions_for_use"> Before using RelaxPic browsing, you need to carefully read and agree our \n  %s and  %s. </string>
     <string name="agree_and_continue">Agree and continue</string>
     <string name="disagree">Disagree</string>
-    <string name="media_not_supported">Media not supported</string>
+    <string name="media_not_supported">Unsupported media</string>
     <string name="system_default_selector">System default App</string>
     <string name="set_default_app">Default application settings</string>
     <string name="clear_default_app">Clear default App</string>
