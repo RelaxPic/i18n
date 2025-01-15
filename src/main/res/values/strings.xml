@@ -70,7 +70,7 @@
     <string name="photoGroup">Photo grouping</string>
     <string name="restore_file">Restore file</string>
     <string name="confirm_restore_file">Restore this file to Album?</string>
-    <string name="selected">selected</string>
+    <string name="selected">Selected</string>
     <string name="uncheck">Uncheck</string>
     <string name="browser_history">Browsing history</string>
     <string name="select_all">Select All</string>
