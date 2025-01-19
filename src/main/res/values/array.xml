@@ -90,6 +90,7 @@
         <item>@string/delete</item>
         <item>@string/rename</item>
         <item>@string/remove_from_privacy_album</item>
+        <item>@string/move_to_private_space</item>
     </string-array>
     <string-array name="wallpaper_mode_value_array">
         <item>0</item>
