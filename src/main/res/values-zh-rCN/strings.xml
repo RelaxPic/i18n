@@ -8,8 +8,8 @@
     <string name="grid_count">列数</string>
     <string name="album_sort">相册排序</string>
     <string name="photo_sort">照片排序</string>
-    <string name="hide_album">隐藏相册</string>
-    <string name="move_2_hide_album">移动到隐藏相册</string>
+    <string name="hide_album">排除相册</string>
+    <string name="move_2_hide_album">移动到排除相册</string>
     <string name="file_filter">过滤文件</string>
     <string name="back">返回</string>
     <string name="copied">已复制</string>
