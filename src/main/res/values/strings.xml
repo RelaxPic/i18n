@@ -8,8 +8,8 @@
     <string name="grid_count">Columns</string>
     <string name="album_sort">Album Sort Order</string>
     <string name="photo_sort">Photo Sort Order</string>
-    <string name="hide_album">Hide Album</string>
-    <string name="move_2_hide_album">Move to hide album</string>
+    <string name="hide_album">Exclude Album</string>
+    <string name="move_2_excloude_album">Move to exclude album</string>
     <string name="file_filter">File Filter</string>
     <string name="back">Back</string>
     <string name="copied">Copied</string>
