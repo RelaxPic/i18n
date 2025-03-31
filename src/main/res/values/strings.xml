@@ -36,7 +36,7 @@
     <string name="find_unindexed_photos_desc">Recover hidden images (excluding files starting with a dot)</string>
     <string name="clear_up_empty_files">Clear up empty files</string>
     <string name="other">Other</string>
-    <string name="update_history">Update history</string>
+    <string name="update_history">Changelog</string>
     <string name="recycle_bin">Recycle bin</string>
     <string name="move_to_recycle_bin">Move to recycle bin</string>
     <string name="feedback">Feedback</string>
